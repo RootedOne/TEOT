@@ -1,0 +1,1413 @@
+RESEARCH Open Access
+© The Author(s) 2026. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Cheng et al. BMC Psychology          (2026) 14:794 
+https://doi.org/10.1186/s40359-026-04496-4
+BMC Psychology
+*Correspondence:
+Weitao Huang
+weitaohuang@csu.edu.cn
+Mei  Sun
+sunmei@csu.edu.cn
+1Xiangya School of Nursing, Central South University, No. 172 Tongzipo 
+Road, Changsha, Hunan 410013, P .R. China
+2School of Marxism, Central South University, Lushan South Road, 
+Changsha, Hunan 410083, P .R. China
+Abstract
+Background Advances in artificial intelligence (AI) have brought AI resurrection, the digital reconstruction of the 
+deceased closer to reality. Understanding the psychological factors associated with acceptance of this technology is 
+essential for informing its ethical and educational implications.
+Methods This cross–sectional study investigated Chinese college students’ acceptance of AI resurrection and 
+examined demographic, death-related background factors, and AI-related predictors. A total of 990 valid responses 
+were collected through an online self-administered questionnaire (Cronbach’s α = 0.799). Spearman’s correlation and 
+multinomial logistic regression analyses were conducted to examine associations between variables and acceptance 
+levels across five hypothetical scenarios.
+Results Higher AI engagement and stronger perceived harm predictability were positively associated with 
+acceptance of AI resurrection technologies, whereas fear of AI demonstrated scenario–dependent effects. Participants 
+who had experienced the death of loved ones or studied medicine showed greater acceptance. Nearly half of the 
+respondents (47.9%) believed that both the deceased’s and family’s wishes should be considered in resurrection 
+decisions.
+Conclusions Cognitive and affective factors were associated with individuals’ acceptance of AI resurrection 
+technologies. These findings contribute to understanding human-AI interaction in existential contexts and emphasize 
+the importance of consent and data protection in future applications.
+Keywords AI resurrection, Psychological acceptance, AI fear, Harm predictability, Human-technology interaction, 
+Death-related attitudes, Chinese college students
+Explore factors affecting students’ acceptance 
+of AI resurrection and ethical dilemmas in AI 
+resurrection technology among Chinese 
+college students: a cross-sectional study
+Nini Cheng1 , Weitao Huang2*  and Mei Sun1*
+
+Page 2 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+Background
+As artificial intelligence (AI) increasingly intersects with 
+fundamental aspects of human life and death, under -
+standing its psychological and ethical implications has 
+become a critical concern. AI has rapidly advanced to a 
+stage where technologies can replicate human voices, 
+images, and personalities from digital traces, enabling 
+what has recently been termed AI resurrection. This con -
+cept refers to the digital reconstruction of a deceased 
+individual through AI systems capable of generating 
+interactive simulations or chatbots [ 1, 2]. While once 
+confined to speculative fiction, the growing capabilities 
+of generative AI systems such as ChatGPT and DeepSeek 
+have transformed these ideas into feasible technological 
+possibilities [ 3, 4]. These developments raise profound 
+psychological questions about how humans respond to 
+technologies that blur the boundary between the living 
+and the dead. Existing studies have examined the ethi -
+cal and legal implications of posthumous data use and 
+digital personhood [ 5–7]. However, empirical research 
+on individuals’ psychological acceptance of AI resurrec -
+tion remains scarce. Understanding public perceptions 
+of such technologies is essential, as social acceptance 
+strongly predicts adoption and compliance behaviours 
+toward emerging AI systems [8, 9].
+University students represent a particularly relevant 
+demographic for investigating these issues. They are early 
+adopters of digital technology, frequently engage with 
+AI in educational and personal contexts, and will likely 
+shape the ethical and societal norms surrounding future 
+AI use [ 10, 11]. Moreover, cultural beliefs about death 
+and continuity of the self, particularly those informed 
+by Confucian and Daoist traditions, may inform emo -
+tional and moral evaluations of digital resurrection 
+technologies [ 2, 12]. These cultural frameworks empha -
+size relationality, reverence for ancestors, and the moral 
+significance of remembrance, providing a cultural lens 
+through which participants may interpret AI-mediated 
+representations of the dead. Accordingly, the discussion 
+of cultural traditions in this study reflects an interpretive 
+context rather than direct statistical testing.
+Unlike conventional AI applications that primarily 
+support efficiency or decision-making, AI resurrection 
+involves deeply personal and existential domains, includ -
+ing mortality, identity continuity, and posthumous auton-
+omy. These characteristics raise questions about whether 
+traditional technology acceptance frameworks remain 
+applicable in such contexts. Conceptually, even in exis -
+tentially sensitive contexts, judgments of acceptability 
+involve cognitive evaluation and emotional response to 
+an AI system.
+From this perspective, the Technology Acceptance 
+Model (TAM) [ 8] and the Human–AI Trust Frame -
+work [ 13] remain theoretically relevant, as they offer 
+complementary lenses for understanding how individuals 
+assess, trust, and emotionally react to AI technologies in 
+morally charged contexts. TAM provides a foundation for 
+examining how cognitive evaluations, such as familiarity, 
+perceived ease of interaction, and anticipated usefulness, 
+shape acceptance. In the context of AI resurrection, these 
+evaluations extend beyond instrumental utility to include 
+judgments about psychological comfort and perceived 
+appropriateness of interacting with a posthumous digital 
+entity.
+At the same time, the Human–AI Trust Framework is 
+particularly pertinent to AI resurrection because trust-
+related beliefs, such as predictability, transparency, and 
+controllability, become central when AI systems oper -
+ate in ethically sensitive domains. When AI technologies 
+engage with death and identity, uncertainty regarding 
+potential harm or misuse may undermine trust and 
+amplify emotional resistance.
+Therefore, integrating TAM with trust-based perspec -
+tives allows for a more nuanced understanding of how 
+cognitive familiarity, perceived predictability, and affec -
+tive responses jointly shape acceptance of AI resurrec -
+tion. These frameworks are employed as psychologically 
+grounded models for examining how complex moral con-
+cerns are translated into acceptance judgments. By situ -
+ating these frameworks within the Chinese socio-cultural 
+context and considering death-related beliefs and AI-
+related affect (e.g., AI fear), this study aims to extend our 
+understanding of how AI resurrection might be evalu -
+ated within a broader cultural and moral context.
+The psychological acceptance of AI technologies
+Building on the above theoretical positioning, psycholog -
+ical acceptance of technology has been extensively exam -
+ined through the Technology Acceptance Model (TAM), 
+which posits that behavioural intention is determined by 
+cognitive evaluations such as perceived usefulness and 
+perceived ease of use [8]. TAM and its extensions, such as 
+the Unified Theory of Acceptance and Use of Technology 
+[9], have been applied across various contexts, including 
+healthcare [14], education [15], and social media [16].
+Within this literature, TAM primarily conceptualizes 
+acceptance as a cognitive evaluation process, emphasiz -
+ing individuals’ assessments of usefulness, ease of inter -
+action, and familiarity with technology. Traditional TAM 
+frameworks mainly emphasize cognitive rather than 
+emotional processes. Subsequent research suggests that 
+affective factors, including trust, anxiety, and fear, play 
+critical roles in shaping user attitudes toward AI [ 13, 
+17]. In particular, trust in AI depends on users’ percep -
+tions of predictability, transparency, and controllabil -
+ity of AI behaviour [ 18, 19]. Conversely, AI-related fear 
+or anxiety may be associated with heightened perceived 
+risks and moral unease and lower acceptance [ 20, 21]. 
+
+Page 3 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+Accordingly, integrating cognitive and affective dimen -
+sions has become increasingly important for understand -
+ing acceptance of AI systems that involve uncertainty and 
+ethical sensitivity.
+The role of cognitive engagement and harm predictability
+AI engagement, defined as the degree of familiarity, 
+understanding, and frequency of use of AI tools, reflects 
+the cognitive component of interaction. Higher engage -
+ment enhances perceived ease of use and reduces uncer -
+tainty, which is associated with higher acceptance [ 14, 
+21]. Research in educational psychology also shows that 
+repeated exposure to AI systems increases self-efficacy 
+and technology readiness [22, 23].
+A related construct, AI harm predictability, refers to 
+users’ belief that AI behaviour is transparent and con -
+trollable, which are concepts central to the Human-AI 
+Trust Framework [13]. When people perceive AI systems 
+as predictable and aligned with human values, they are 
+more likely to trust and accept them [ 13, 18, 21]. Trans-
+parency in AI decision-making can mitigate uncertainty 
+and enhance psychological safety [ 24, 25]. These findings 
+suggest that cognitive variables, namely engagement and 
+perceived predictability, may serve as key facilitators of 
+acceptance toward ethically complex AI applications.
+The role of AI fear
+In contrast, emotional responses such as AI fear can 
+inhibit acceptance. Fear of AI encompasses apprehension 
+about potential harm, ethical misuse, or loss of human 
+control [ 20]. This affective response is often rooted in 
+perceived threats to identity, autonomy, or existential 
+security [ 26, 27]. From a psychological perspective, fear 
+may be linked to avoidance tendencies and moral resis -
+tance, and has been associated with lower acceptance 
+of technologies perceived as invasive or dehumanizing. 
+Studies have shown that individuals experiencing higher 
+AI-related fear are less likely to adopt AI-driven systems 
+regardless of their functionality [ 28, 29]. In contexts 
+involving mortality or posthumous data, fear may inten -
+sify because of perceived violations of human dignity and 
+spiritual boundaries [2, 30]. Therefore, examining AI fear 
+alongside cognitive variables is crucial for understanding 
+affective resistance toward AI resurrection.
+Taken together, this study conceptualizes cognitive 
+and affective factors as parallel yet interacting pathways 
+influencing acceptance of AI resurrection. Cognitive 
+evaluations, such as AI engagement and perceived harm 
+predictability, reflect individuals’ rational assessments 
+of familiarity, controllability, and trustworthiness of AI 
+systems. In parallel, affective responses, particularly AI-
+related fear, capture emotional reactions rooted in ethical 
+concern, existential unease, and perceived moral risk.
+Rather than assuming a fixed hierarchical relation -
+ship between cognition and emotion, this study adopts a 
+context-sensitive perspective in which affective responses 
+operate as a parallel process whose influence varies 
+across contexts. Specifically, AI fear is not treated as a 
+simple antecedent to trust-related beliefs, but as an affec -
+tive process whose influence varies depending on con -
+sent conditions. When consent is unclear or absent, fear 
+may heighten moral resistance and suppress acceptance. 
+Conversely, when explicit consent is present, fear may 
+be reinterpreted or attenuated, resulting in different pat -
+terns of association with acceptance.
+This conceptualization aligns with dual-process mod -
+els of decision-making and human–AI interaction, which 
+suggest that cognitive and emotional processes jointly, 
+though not uniformly, shape judgments under varying 
+contextual conditions. Accordingly, the present study 
+examines how cognitive trust-related factors and affec -
+tive responses operate simultaneously, while allowing 
+their relative influence to differ across consent-based 
+scenarios.
+The present study
+Building on these theoretical and contextual foundations, 
+the present study aims to explore the psychological and 
+contextual factors that shape college students’ acceptance 
+of AI resurrection technologies in China. Accordingly, 
+the Chinese cultural context is considered as an interpre-
+tive background that informs participants’ meaning-mak-
+ing processes, rather than as a formally operationalized 
+predictor in the analytical models.
+Instead of testing predefined hypotheses, this research 
+adopts an exploratory analytic approach guided by the 
+Technology Acceptance Model [ 8] and the Human-AI 
+Trust Framework [13].
+Specifically, we examine how cognitive factors (AI 
+engagement and AI harm predictability), affective fac -
+tors (AI fear), and contextual or personal characteristics 
+(demographics and death-related experiences) relate to 
+individuals’ acceptance of AI resurrection across multiple 
+hypothetical scenarios that differ in consent conditions 
+[30].
+Given the exploratory nature of this study and the 
+ethical sensitivity of AI resurrection, we did not assume 
+that the same psychological mechanisms would operate 
+uniformly across all consent scenarios. Instead, the sce -
+nario-based analytical strategy was designed to examine 
+whether cognitive and affective predictors of acceptance 
+remain consistent or vary depending on consent context.
+By employing multinomial logistic regression mod -
+els across multiple scenarios, this study explicitly allows 
+for the possibility that different consent conditions (e.g., 
+unclear consent, parental consent, or self-consent) may 
+activate distinct psychological processes. This approach 
+
+Page 4 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+enhances transparency by aligning the research questions 
+with the analytical strategy and enables a more nuanced 
+interpretation of scenario-dependent findings.
+Accordingly, the study addresses the following research 
+questions:
+1. Which demographic and death-related factors are 
+associated with acceptance of AI resurrection across 
+consent scenarios?
+2. How do cognitive (trust–related) and affective 
+(fear–related) dimensions influence acceptance when 
+considered simultaneously?
+3. Do these associations differ across consent–based 
+contextual scenarios (e.g., unknown consent, 
+parental consent, or self–consent)?
+This is the first empirical study to examine AI resurrec -
+tion acceptance in a Chinese cultural context. By focus -
+ing on young adults in a rapidly digitizing society, this 
+research provides empirical evidence for understanding 
+the psychological mechanisms underlying public accep -
+tance of AI technologies that intersect with death, auton -
+omy, and identity.
+Method
+Study design and setting
+This study aimed to investigate the psychological and 
+contextual factors influencing Chinese college students’ 
+acceptance of AI resurrection technologies across five 
+scenarios. This study employed a cross–sectional design 
+to collect data from Chinese college students. Conve -
+nience sampling was used to recruit participants from 
+seven geographical regions across China, covering 
+East, North, Central, South, Southwest, Northwest, and 
+Northeast China, to improve geographic diversity. Par -
+ticipants were recruited through online distribution of 
+the questionnaire link via class-based instant messaging 
+groups across institutions in different regions, with the 
+assistance of student gatekeepers. Eligible participants 
+were current associate, undergraduate, master’s, or doc -
+toral students.
+The sample was relatively homogeneous in terms of 
+age, with 96% of participants concentrated in the 17–29 
+years range, and over half were medical students. These 
+factors should be considered when interpreting the gen -
+eralizability of the findings, as the sample may not fully 
+reflect the broader Chinese population. While these 
+characteristics align with the theoretical focus of the 
+study on young, highly educated individuals, the results 
+should not be overgeneralized to the wider population.
+Data were collected through a self–designed online 
+questionnaire distributed via “Wenjuanxing, ” a one-stop 
+survey research platform.
+In particular, the relatively high proportion of medical 
+students is of theoretical relevance, as medical education 
+often involves repeated exposure to mortality, end-of-life 
+decision-making, and ethical reflection. These factors are 
+likely to influence attitudes toward both AI technologies 
+and end-of-life care. Thus, academic major was treated as 
+a key analytical variable, enabling us to examine whether 
+exposure to medical education is associated with differ -
+ential acceptance of AI resurrection technologies.
+To ensure an adequate final sample after data quality 
+screening, a total of 1002 questionnaires were distrib -
+uted. After excluding ineligible or invalid responses, 990 
+valid cases were retained for analysis, yielding an effec -
+tive response rate of 98.8%.
+Sample adequacy was evaluated based on contempo -
+rary statistical considerations rather than simple rules of 
+thumb. Given the large sample size (N = 990) and the use 
+of scenario-specific multinomial logistic regression mod -
+els, the study meets commonly recommended criteria for 
+model stability and reliable parameter estimation, includ-
+ing sufficient observations per outcome category and 
+per estimated parameter. Methodological guidelines for 
+logistic and multinomial logistic regression commonly 
+recommend at least 10–20 observations per estimated 
+parameter within each outcome category to ensure sta -
+ble model estimation [ 31, 32]. Accordingly, the current 
+sample size is considered sufficient to support reliable 
+estimation and interpretation of scenario-specific effects.
+Prior to participation, respondents read an informed 
+consent statement describing the study’s purpose, volun -
+tary nature, confidentiality, and right to withdraw at any 
+time. Duplicate submissions and responses completed in 
+under two minutes were excluded to ensure data quality. 
+On average, participants took 10–15 min to complete the 
+survey.
+The survey comprised five sections: [1] demographic 
+information [2], death-related beliefs and experiences [3], 
+knowledge and attitudes toward AI [4], five hypothetical 
+AI resurrection scenarios and related questions, and [5] 
+an ethical question on whether the rights of the deceased 
+should be considered in AI resurrection.
+While the study uses single-item measures for AI 
+harm predictability and AI fear, we acknowledge that 
+single-item measures have limitations in terms of con -
+struct validity and reliability. These measures were cho -
+sen for their simplicity and efficiency in an exploratory 
+study with a large sample size. However, we recognize 
+that single-item measures may capture a limited scope 
+of the construct and could be subject to measurement 
+error. Future studies should aim to use multi-item vali -
+dated scales to provide more reliable and comprehensive 
+assessments of AI-related fears and harm predictability.
+The full instrument is provided in the Appendix.
+
+Page 5 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+This study was conducted in accordance with the ethi -
+cal principles of the Declaration of Helsinki and was 
+approved by the Ethics Committee of Xiangya School 
+of Nursing, Central South University. All data were ano -
+nymized and securely stored in encrypted files accessible 
+only to the research team.
+Survey measures
+The questionnaire was designed based on the Technology 
+Acceptance Model (TAM) [ 8] and the Human–AI Trust 
+Framework [ 13], incorporating vignette-based adapta -
+tions from Iwasaki [ 30] to capture ethical and emotional 
+responses. It consisted of five major sections: [1] sociode-
+mographic characteristics [ 2], death-related beliefs and 
+experiences [ 3], AI engagement [ 4], AI harm predict -
+ability, and [5] Acceptance of AI resurrection across five 
+hypothetical scenarios.
+The questionnaire was pretested with five graduate 
+students and refined for clarity and reliability. The final 
+version achieved a Cronbach’s α of 0.799. All items used 
+a 5-point Likert scale unless otherwise stated. The full 
+wording of the items and response options is available in 
+the Appendix.
+Sociodemographic characteristics
+Participants reported gender, age, educational level 
+(associate, undergraduate, master’s, or doctoral degree), 
+and academic major. Majors were subsequently grouped 
+into medical and non-medical disciplines for analysis, as 
+prior studies have shown that medical students often dis-
+play greater exposure to ethical dilemmas, death-related 
+experiences, and technology–assisted care, which may 
+shape their attitudes toward both AI and end-of-life tech-
+nologies [10].
+Death-related beliefs and experiences
+Two closed–ended items measured participants’ death-
+related beliefs and personal experiences related to death. 
+The first item assessed afterlife belief: “Do you believe 
+death represents the end of life, or do you believe in 
+an afterlife or supernatural continuation (e.g., soul or 
+spirit)?” (response options: “End of life” or “ Afterlife/spirit 
+exists”). Previous research has shown that belief in a soul 
+or afterlife is negatively associated with moral approval of 
+digital immortality technologies such as mind–upload -
+ing [ 33]. The second item asked whether participants 
+had experienced the loss of a close family member or 
+friend (“Yes” or “No”). Prior work with bereaved popu -
+lations demonstrates that such experiences influence 
+grief-related digital behaviours and attitudes toward 
+posthumous communication technologies [ 34]. These 
+two items capture participants’ death-related belief ori -
+entation and bereavement experience, which may shape 
+their moral evaluation of AI resurrection technologies.
+AI engagement
+Grounded in the Perceived Ease of Use (PEOU) dimen -
+sion of the Technology Acceptance Model [8], AI engage-
+ment captured participants’ cognitive familiarity and 
+experiential interaction with AI systems, which are 
+known to facilitate perceived ease and reduce techno -
+logical uncertainty [ 14, 21]. Participants indicated [ 1] 
+how frequently they used AI technologies (e.g., chatbots, 
+generative AI tools, or voice assistants) and [ 2] how well 
+they understood these technologies, both measured on a 
+5–point Likert scale (1 = “Not at all” to 5 = “Very much”). 
+The mean of the two items represented participants’ level 
+of AI engagement, with higher scores reflecting greater 
+familiarity and perceived ease of interaction.
+AI harm predictability
+Based on the Human-AI Trust Framework [13], this con-
+struct represents a cognitive antecedent of trust, cap -
+turing perceived controllability and transparency of AI 
+behaviour. Participants were asked, “To what extent do 
+you believe the potential harm caused by AI technologies 
+can be predicted and managed?” Responses were rated 
+on a 5-point Likert scale (1 = “Not at all predictable” to 5 
+= “Highly predictable”). Higher scores indicated stronger 
+beliefs that AI operates in a controllable and transparent 
+manner, aligned with human values and social norms.
+Perceived predictability has been shown to enhance 
+users’ cognitive trust and willingness to accept AI-medi -
+ated systems [13, 18, 35].
+AI fear
+Drawing on the affective extensions of the Technol -
+ogy Acceptance Model [ 9, 21] and the Human–AI Trust 
+Framework [13], AI fear represents an affective concern 
+about the potential misuse and ethical risks of AI tech -
+nologies, reflecting emotional unease toward AI in mor -
+ally sensitive contexts.
+Participants rated their agreement with the statement: 
+“I am concerned that AI technologies, including AI res -
+urrection, could be misused or cause ethical problems. ” 
+Responses were recorded on a 5–point Likert scale (1 = 
+“Strongly disagree” to 5 = “Strongly agree”).
+Higher scores indicate stronger emotional unease, 
+reflecting fear of ethical misuse, loss of control, or iden -
+tity threat associated with AI systems. Prior studies have 
+shown that such affective responses negatively predict 
+acceptance and trust in AI-driven technologies [ 20, 21, 
+26].
+AI resurrection scenarios and acceptance
+To examine social and personal acceptance of AI resur -
+rection, five hypothetical scenarios were adapted from 
+Iwasaki [ 30]. Each scenario described a case in which a 
+young woman, Xiaotong, was digitally resurrected using 
+
+Page 6 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+AI technology under varying consent conditions (e.g., 
+unknown wishes, parental consent, self-consent). Par -
+ticipants rated the social acceptability of each case on a 
+5-point Likert scale (1 = “Unacceptable” to 5 = “ Accept -
+able”). Two additional vignettes asked participants to 
+imagine themselves as (a) the deceased and (b) the 
+deceased’s parent, rating their agreement with statements 
+regarding their own or their child’s resurrection. The 
+final question assessed perceived ethical rights, asking: 
+“Whose wishes should be prioritized in AI resurrection? 
+the deceased, the family, or both?”
+Data analysis
+All statistical analyses were conducted using SPSS ver -
+sion 27.0 (IBM Corp., Armonk, NY, USA). Statistical 
+significance was considered at p < .05 (two–tailed). A 
+two-stage analytical strategy was employed.
+First, descriptive statistics were computed for all 
+variables, expressed as mean (SD) for continuous vari -
+ables and as frequencies and percentages for categorical 
+variables.
+Second, Spearman’s rank correlation analyses were per-
+formed to examine bivariate associations among demo -
+graphic, death-related, and AI-related variables and 
+participants’ acceptance of AI resurrection across the five 
+hypothetical scenarios. Variables that showed significant 
+correlations (p < .05) were subsequently included in mul -
+tinomial logistic regression models to identify predictors 
+of AI resurrection acceptance in each scenario.
+For demographic factors, three independent vari -
+ables were analysed: gender, education, and academic 
+major. Gender was included as a binary categorical vari -
+able. Academic major was dichotomized into medical 
+and non-medical fields. Educational level was grouped 
+into three categories (associate, undergraduate, and 
+postgraduate).
+For death-related beliefs and experiences, two dichoto -
+mous variables were included: [1] belief orientation (“end 
+of life” vs. “afterlife/spirit exists”) and [2] prior experience 
+of losing a close person (“yes” vs. “no”).
+For AI-related attitudes, three continuous variables 
+were analysed: AI engagement, AI harm predictability, 
+and AI fear. In the regression models, continuous vari -
+ables were categorized into three levels to facilitate inter -
+pretation: low ([1, 2]), moderate [3], and high ([4, 5]). 
+Education level was also grouped into three categories 
+(associate, undergraduate, postgraduate).
+This categorization approach is consistent with prior 
+exploratory research on ethically sensitive and posthu -
+mous technologies, such as Iwasaki’s study on digital 
+cloning, and was adopted to facilitate scenario-based 
+interpretation, with results interpreted as indicative 
+rather than exact effect estimates [30].
+Result
+A total of 1002 participants were approached, of whom 
+12 were excluded due to ineligibility. The final sample 
+comprised 990 valid responses, yielding an effective 
+response rate of 98.8%. Descriptive, correlational, and 
+regression analyses were performed to examine associa -
+tions between demographic, cognitive, and affective vari -
+ables and acceptance of AI resurrection.
+Participant characteristics
+Participants’ demographic characteristics are summa -
+rized in (Table 1). The majority were female (66.5%), and 
+most were aged between 17 and 29 years (96.0%). The 
+largest proportion was undergraduate students (74.5%), 
+and medical majors accounted for 51.3% of the total 
+sample.
+Death-related beliefs and experiences
+Table  2 summarizes participants’ death-related beliefs 
+and experiences. Most respondents (80.6%) believed that 
+death represents the end of life, whereas 19.4% endorsed 
+beliefs in an afterlife or spiritual continuation. In addi -
+tion, 76.6% reported having experienced the loss of a 
+close family member or friend.
+Table 1 Demographic characteristics of participants (N = 990)
+N %
+Gender
+ Woman 658 66.5
+ Man 332 33.5
+Age
+ 17–29 974 96.0
+ 30 or more 16 4.0
+Education
+ Associate degree 89 9.0
+ Bachelor’s degree 738 74.5
+ Master’s degree 117 11.8
+ Doctor’s degree 46 4.6
+Major
+ Philosophy 156 15.8
+ Economics 20 2.0
+ Law 30 3.8
+ Medicine 508 51.3
+ Education 14 1.4
+ Agriculture 7 0.7
+ Engineering 114 11.5
+ Science 68 6.9
+ Management 25 2.5
+ Literature 24 2.4
+ Military Science 1 0.1
+ History 4 0.4
+ Art 11 1.1
+N =  990 Participants were on average 21.2 years old (SD = 3.4), SD Standard 
+Deviation
+
+Page 7 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+AI–related variables
+Descriptive statistics for AI–related variables are pre -
+sented in (Table 3). Three independent variables were 
+measured: AI engagement, AI harm predictability, and AI 
+fear, each rated on a 5-point Likert scale. AI engagement 
+was assessed using two items adapted from Iwasaki [ 30]. 
+AI engagement and AI harm predictability showed mean 
+values around the midpoint of the scale. In contrast, 
+AI fear exhibited a higher mean score, approaching the 
+upper range of the scale.
+Acceptance of AI resurrection
+Table 4 summarizes participants’ acceptance of AI resur -
+rection across different consent conditions. Acceptance 
+was lowest when the deceased’s consent was unknown 
+and increased in scenarios involving explicit consent, 
+such as parental or self-consent.
+Panel B: response distribution (%)
+Unacceptable Neutral Acceptable
+Societal: consent unclear 30.9 43.6 25.5
+Societal: with parental 
+consent
+18.5 38.9 42.6
+Societal: with the de-
+ceased's consen
+14.9 37.1 48.0
+Disagree Neutral Agree
+Personal: self 30.9 35.4 33.7
+Personal: as parents 33.1 36.4 30.5
+Abbreviations : N 990, SD Standard Deviation, Panel A shows mean scores 
+(1–5 Likert scale), Panel B presents frequency percentages for each response 
+category.
+Table 5 presents participants’ views on whose wishes 
+should take ethical priority in AI resurrection.
+Most respondents emphasized either prioritizing the 
+deceased’s wishes or balancing the wishes of the deceased 
+and the family.
+Correlation analysis
+Table 6 presents Spearman’s rank correlations between 
+demographic, death-related, and AI-related variables and 
+acceptance of AI resurrection across five scenarios. AI 
+engagement and AI harm predictability were positively 
+Table 2 Response distribution of death–related cultural 
+background (N = 990)
+N %
+What is the view of death in your cultural background?
+Death is the end of life 798 80.6
+Others (afterlife or the existence of the soul) 192 19.4
+Have you ever suffered the loss of a loved one (including but not lim-
+ited to family members, relatives, or friends) and felt grief or regret?
+  Yes 758 76.6
+  No 232 23.4
+N = 990. Values are presented as frequency (%)
+Table 3 Descriptive statistics for AI–related variables (N = 990)
+Mean SD
+AI engagement 3.085 0.943
+AI harm predictability 3.050 1.075
+AI fear level 3.930 0.904
+N = 990, SD  Standard Deviation, Higher mean scores indicate greater levels of 
+the measured construct
+Table 4 Descriptive statistics for responses on societal and 
+personal perspectives (N = 990) Panel A: Mean, SD
+Mean SD
+Societal: consent unclear 2.88 1.018
+Societal: with parental consent 3.26 1.033
+Societal: with the deceased’s consent 3.40 1.037
+Personal: self 2.96 1.211
+Personal: as parents 2.88 1.158
+Panel B: response distribution (%)
+Table 5 Response distribution regarding ethical consideration 
+of the deceased’s rights (N = 990)
+N %
+The deceased's pre–mortem wishes should be fully 
+respected.
+435 43.9
+Balance the wishes of the deceased and the family. 474 47.9
+Decide based on the family’s wishes. 62 6.3
+Other (please specify): _____ 19 1.9
+N = 990. Values are presented as frequency (%)
+Table 6 Spearman correlation analysis across five AI resurrection scenarios (N = 990)
+Scenario 1Societal: consent 
+unclear
+2Societal: with parental 
+consent
+3Societal: with the deceased’s 
+consent
+4Personal: 
+self
+5Personal: as 
+parents
+r p r p r p r p r p
+Gender –0.016 0.624 –0.014 0.665 0.044 0.166 –0.026 0.409 –0.050 0.118
+Education –0.057 0.074 0.007 0.832 0.043 0.176 –0.075 0.019* –0.034 0.287
+Major 0.067 0.036* 0.010 0.745 0.001 0.963 0.066 0.037* 0.028 0.383
+AI engagement 0.107 0.001* 0.218 0.000* 0.206 0.000* 0.141 0.000* 0.155 0.000*
+AI harm predictability 0.419 0.000* 0.355 0.000* 0.330 0.000* 0.400 0.000* 0.416 0.000*
+AI fear level –0.145 0.000* 0.156 0.000* 0.193 0.000* –0.033 0.304 –0.071 0.026*
+Belief 0.051 0.111 0.070 0.027* 0.026 0.412 0.031 0.331 0.009 0.768
+Experience 0.074 0.020* 0.054 0.091 –0.004 0.891 0.028 0.374 0.018 0.565
+Abbreviations: N   990, r   Spearman’s correlation coefficient, p  significance level, p < .05 indicates statistical significance
+
+Page 8 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+correlated with acceptance across scenarios. AI fear 
+showed scenario-dependent associations, with differing 
+directions depending on consent conditions.
+Multinomial logistic regression analysis
+Five multinomial logistic regression models were esti -
+mated for the five scenarios (Tables  7, 8, 9, 10 and 11). 
+Across scenarios, higher AI engagement and greater 
+perceived AI harm predictability were consistently asso -
+ciated with higher acceptance of AI resurrection. In con -
+trast, AI fear showed scenario-dependent associations, 
+with different patterns observed under explicit versus 
+unclear consent conditions.
+Discussion
+The present study aimed to explore the psychological and 
+contextual factors influencing Chinese college students’ 
+acceptance of AI resurrection across five hypothetical 
+scenarios. This study should be interpreted in light of the 
+sample characteristics. Participants were predominantly 
+young adults (17–29 years) and over half were medical 
+students, which may limit generalizability beyond highly 
+educated Chinese university populations. Accordingly, 
+Table 7 Multinomial logistic regression predicting acceptance of AI resurrection under unclear consent (N = 990)
+β SE Wald (P) OR 95% CI
+Intercept (Unacceptable) –1.225 0.248 24.464 0.000*
+AI fear level
+ low 0.613 0.226 7.346 0.007* 1.847 1.185–2.878
+ moderate 0.116 0.249 0.219 0.640 1.123 0.690–1.829
+ high 0b
+AI fear level
+ low 0.230 0.527 0.190 0.663 1.258 0.448–3.535
+ moderate –0.771 0.291 6.991 0.008* 0.463 0.261–0.819
+ high 0b
+AI harm predictability
+ low 2.605 0.250 108.695 0.000* 13.529 8.291–22.077
+ moderate 1.365 0.261 27.298 0.000* 3.917 2.347–6.537
+ high 0b
+Major
+ Medical 0.549 0.288 3.642 0.056 1.731 0.985–3.042
+ Others 0b
+Experience
+ Yes 0.149 0.228 0.425 0.514 1.160 0.742–1.813
+ No 0b
+Abbreviations: N   990, β  regression coefficient, SE  standard error, p  significance level, OR  odds ratio, CI  confidence interval, p < .05 indicates statistical significance
+Table 8 Multinomial logistic regression predicting acceptance of AI resurrection under parental consent (N = 990)
+β SE Wald (P) OR 95% CI
+Intercept (Unacceptable) –2.449 0.284 74.265 0.000*
+AI engagement level
+low 0.734 0.225 10.663 0.001* 2.084 1.341–3.238
+moderate 0.301 0.259 1.358 0.244 1.352 0.814–2.245
+high 0b
+AI fear level
+low 1.590 0.460 11.949 0.001* 4.902 1.990–12.071
+moderate 0.645 0.298 4.678 0.031* 1.906 1.062–3.421
+high 0b
+AI harm predictability
+low 2.095 0.239 76.790 0.000* 8.126 5.086–12.983
+moderate 0.782 0.291 7.216 0.007* 2.185 1.235–3.866
+high 0b
+Background
+Death is the end 0.105 0.241 0.190 0.663 1.111 0.692–1.783
+Afterlife 0b
+Abbreviations: N   990, β  regression coefficient, SE  standard error, p  significance level, OR  odds ratio, CI  confidence interval, p < .05 indicates statistical significance
+
+Page 9 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+Table 9 Multinomial logistic regression predicting acceptance of AI resurrection under the deceased’s consent (N = 990)
+β SE Wald (P) OR 95% CI
+Intercept (Unacceptable) –2.729 0.243 126.636 0.000*
+AI engagement level
+ low 0.689 0.237 8.469 0.004* 1.993 1.252–3.170
+ moderate 0.532 0.269 3.922 0.048* 1.703 1.006–2.885
+ high 0b
+AI fear level
+ low 1.805 0.439 16.887 0.000* 6.083 2.571–14.391
+ moderate 0.282 0.331 0.728 0.394 1.326 0.693–2.536
+ high 0b
+AI harm predictability
+ low 1.923 0.257 56.196 0.000* 6.844 4.139–11.317
+ moderate 1.103 0.305 13.063 0.000* 3.013 1.657–5.481
+ high 0b
+Abbreviations: N   990, β  regression coefficient, SE  standard error, p  significance level, OR  odds ratio, CI  confidence interval, p < .05 indicates statistical significance
+Table 10 Multinomial logistic regression predicting acceptance of AI resurrection from self–perspective (N = 990)
+β SE Wald (P) OR 95% CI
+Intercept (Disagree) –1.203 0.393 9.350 0.002*
+AI engagement level
+low 0.734 0.204 12.970 0.000* 2.084 1.398–3.109
+moderate 0.177 0.232 0.583 0.445 1.194 0.758–1.882
+high 0b
+AI harm predictability
+low 2.201 0.211 108.980 0.000* 9.031 5.975–13.652
+moderate 0.921 0.227 16.453 0.000* 2.512 1.610–3.920
+high 0b
+Major
+0.376 0.436 0.744 0.388 1.457 0.620–3.426
+0b
+Education
+–0.597 0.504 1.404 0.236 0.550 0.205–1.478
+–0.215 0.378 0.322 0.571 0.807 0.384–1.694
+0b
+Abbreviations : N  990, β  regression coefficient, SE  standard error, p  significance level, OR  odds ratio, CI  confidence interval, p < .05 indicates statistical significance
+Table 11 Multinomial logistic regression predicting acceptance of AI resurrection from parent–perspective (N = 990)
+β SE Wald (P) OR 95% CI
+Intercept (Disagree) –1.186 0.163 52.890 0.000*
+AI engagement level
+ low 0.778 0.210 13.735 0.000* 2.178 1.443–3.288
+ moderate 0.435 0.232 3.515 0.061 1.544 0.980–2.432
+ high 0b
+AI fear level
+ low 0.582 0.476 1.499 0.221 1.790 0.705–4.549
+ moderate –0.485 0.293 2.739 0.098 0.616 0.347–1.094
+ high 0b
+AI harm predictability
+ low 2.224 0.216 106.408 0.000* 9.241 6.056–14.099
+ moderate 0.962 0.237 16.465 0.000* 2.617 1.644–4.166
+ high 0b
+Abbreviations : N  990, β  regression coefficient, SE  standard error, p  significance level, OR  odds ratio, CI  confidence interval, p < .05 indicates statistical significance
+
+Page 10 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+the findings are best understood as reflecting acceptance 
+patterns within this subgroup rather than Chinese soci -
+ety as a whole.
+Overall, the results indicate relatively high accep -
+tance of AI resurrection within this student sample, 
+with AI-related factors playing a central role in shaping 
+acceptance. Higher levels of AI engagement were asso -
+ciated with greater acceptance, whereas lower perceived 
+predictability of AI-related harm was associated with 
+reduced acceptance. Importantly, the influence of AI fear 
+was not uniform but varied across consent conditions, 
+suggesting that emotional responses to AI resurrection 
+are context-dependent. In addition, medical students and 
+participants who had experienced the death of a loved 
+one tended to report higher acceptance. Together, these 
+findings highlight the central role of consent-related con-
+ditions in shaping ethical evaluations of AI resurrection.
+Acceptance patterns across self- and parent-perspective 
+scenarios
+In this sample, a majority of participants did not oppose 
+the idea of being resurrected through AI (69.1%). This 
+proportion appears higher than that reported in earlier 
+vignette-based work [ 30], although direct comparisons 
+should be made cautiously given differences in samples 
+and scenario framing. However, when students imagined 
+themselves as parents deciding whether to resurrect their 
+child, disagreement increased slightly, suggesting that 
+attitudes vary depending on emotional involvement and 
+moral standpoint. Such variation highlights the impor -
+tance of clarifying ethical and legal responsibilities in 
+cases where consent is uncertain or unavailable.
+In hypothetical cases where an individual dies unex -
+pectedly without surviving relatives, questions arise 
+regarding who holds the authority to decide whether 
+digital resurrection should occur. Such ethical dilemmas 
+underscore the necessity of establishing clear consent 
+procedures and robust data governance frameworks to 
+prevent posthumous digital reanimation without explicit 
+authorization.
+AI engagement and acceptance
+Across all scenarios, AI engagement was positively asso -
+ciated with acceptance of AI resurrection. Students who 
+reported greater familiarity with and more frequent use 
+of AI systems tended to evaluate AI resurrection more 
+favourably. This pattern aligns with prior research indi -
+cating that greater exposure to AI is related to higher 
+technological readiness and more favourable evalua -
+tions of emerging technologies [ 23]. In ethically sensi -
+tive applications such as AI resurrection, higher levels of 
+engagement may be associated with reduced uncertainty 
+and greater psychological comfort when imagining inter -
+action with a posthumous digital entity. These findings 
+suggest that AI literacy efforts should not focus solely on 
+technical competence, but also address how such systems 
+function and what their ethical boundaries are in death-
+related contexts, including how consent and data gover -
+nance are operationalized in posthumous contexts.
+Perceived harm predictability and acceptance
+Perceived harm predictability showed a consistent asso -
+ciation with acceptance of AI resurrection across sce -
+narios. Participants who perceived AI behaviour as 
+unpredictable or uncontrollable tended to express lower 
+acceptance, underscoring the importance of trust-
+related appraisals when AI operates in morally sensitive 
+domains. This finding reinforces the notion that per -
+ceived transparency and controllability are critical for 
+building trust in AI [24, 25]. In line with Human–AI trust 
+models, transparency in algorithmic processes enables 
+users to form cognitive trust by understanding how deci -
+sions are made [ 13]. Ensuring that AI resurrection sys -
+tems operate in a transparent and predictable manner 
+will be crucial for promoting both psychological comfort 
+and social acceptance.
+From a psychological perspective, this finding can be 
+interpreted through the lens of trust-calibration theory 
+and risk perception models. When individuals perceive 
+AI systems as unpredictable, their sense of control and 
+cognitive safety decreases, which may be associated with 
+avoidance tendencies. According to dual-process theo -
+ries of risk perception [ 36], emotional intuition often 
+overrides rational evaluation under uncertainty, thereby 
+relating to lower acceptance even when potential bene -
+fits are acknowledged. In the context of AI resurrection, 
+unpredictability not only threatens technological trust 
+but also amplifies existential concerns, as individuals may 
+fear that the recreated entity could act beyond moral or 
+emotional boundaries.
+AI fear level shows opposite effects in different scenarios
+AI fear demonstrated contrasting associations with 
+acceptance depending on the consent context. When 
+consent was absent or unclear, higher levels of AI fear 
+were associated with lower acceptance. This pattern is 
+consistent with prior findings suggesting that negative 
+affect toward AI is linked to avoidance-oriented evalu -
+ations under conditions of uncertainty [ 10, 37]. In con -
+texts where the deceased’s wishes are ambiguous, AI fear 
+may be associated with heightened moral uncertainty 
+and existential unease, reflecting an inhibiting affective 
+response.
+Conversely, under explicit consent conditions, the 
+direction of association appeared to reverse, with higher 
+AI fear aligning with higher acceptance. These interpre -
+tations are necessarily post-hoc, given the exploratory 
+design of the study. One possible explanation is that 
+
+Page 11 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+explicit consent reduces moral ambiguity and redistrib -
+utes perceived responsibility, thereby enhancing indi -
+viduals’ sense of legitimacy and control. Prior research 
+in decision-making has shown that individuals adopt dif -
+ferent cognitive and moral reasoning strategies depend -
+ing on their role [ 38, 39]. Participants may have felt less 
+personal control when consent had already been given, 
+which may be associated with ambivalence toward the act 
+itself. Under such conditions, fear may heighten aware -
+ness of the ethical gravity of AI resurrection without trig-
+gering avoidance, instead motivating engagement within 
+a morally sanctioned framework. These findings suggest 
+that acceptance of AI resurrection is not only determined 
+by technology-related factors but also by context-depen -
+dent emotional and moral processes.
+Importantly, the AI fear measure used in this study may 
+capture multiple latent concerns rather than a single, uni-
+form construct. In addition to general anxiety about AI 
+technologies, such as fears of misuse or loss of control, AI 
+fear in the context of resurrection may also reflect moral 
+and existential unease related to posthumous identity, 
+dignity, and the boundaries between life and death. These 
+different dimensions of fear are likely to be differentially 
+activated depending on consent clarity, which may help 
+explain the observed scenario-dependent effects. Future 
+research should disentangle these components using 
+multi-item measures that distinguish technological anxi -
+ety from existential or moral threat.
+Taken together, these findings suggest that the influ -
+ence of AI fear on acceptance is not uniform but con -
+tingent on the consent context, supporting the role of 
+consent scenario as a key boundary condition in evalua -
+tions of AI resurrection.
+From a theoretical perspective, this pattern is broadly 
+compatible with psychological accounts emphasizing 
+mortality salience and existential anxiety, such as those 
+proposed in Terror Management Theory [ 40]. Rather 
+than serving as a primary explanatory framework, these 
+perspectives provide a contextual lens for understanding 
+why emotional responses to death-related technologies 
+may be buffered or intensified depending on perceived 
+moral authorization and control. Accordingly, AI fear 
+should not be conceptualized as a uniformly inhibit -
+ing factor, as often assumed in conventional technology 
+acceptance research, but as a context-sensitive affective 
+response whose psychological meaning varies with con -
+sent conditions.
+Although these associations were statistically reliable, 
+most effects were small to moderate in magnitude, sug -
+gesting that acceptance of AI resurrection is likely shaped 
+by multiple additional moral, contextual, and situational 
+factors beyond the predictors measured in the present 
+study.
+Other factors related to students’ acceptance
+Disciplinary background and life experience were also 
+associated with acceptance. Medical students demon -
+strated higher acceptance than non–medical students, 
+which may be associated with their greater exposure to 
+mortality and ethical reflection through academic and 
+clinical training [41]. Similarly, students who had experi -
+enced the death of a loved one were more accepting of AI 
+resurrection. This pattern echoes earlier work suggesting 
+that bereavement increases sensitivity to death-related 
+issues and may heighten motivation to reconnect sym -
+bolically with the deceased [42].
+The deceased’s consent is indispensable for individuals’ AI 
+resurrection
+The deceased’s consent emerged as a decisive ethical 
+factor. Nearly half of the participants (47.9%) believed 
+that decisions about AI resurrection should balance the 
+wishes of the deceased and their family, while 43.9% 
+believed the deceased’s pre–mortem consent should take 
+full precedence. Only 6.3% supported decisions made 
+solely by the family. Acceptance tended to be higher in 
+scenarios involving explicit consent from the deceased 
+than in those relying on parental consent.
+These findings support Harbinja’s [ 5] argument that 
+explicit lifetime consent is a necessary condition for digi -
+tal replication or digital cloning. Future ethical and legal 
+frameworks should prioritize autonomy, informed con -
+sent, and the dignity of the deceased when addressing 
+AI–mediated posthumous technologies.
+Cultural specificity and cross-cultural generalizability
+The present findings should be interpreted within their 
+cultural context. In China, Confucian-influenced rela -
+tional perspectives on personhood emphasize family 
+responsibility, interdependence, and moral continuity 
+after death, which may shape attitudes toward posthu -
+mous technologies such as AI resurrection [ 43]. These 
+cultural values may influence how participants interpret 
+consent, dignity, and appropriate boundaries between the 
+living and the deceased.
+At the same time, several core psychological mecha -
+nisms identified in this study, such as trust in AI systems, 
+affective responses to AI, and consent-based moral rea -
+soning, are not unique to the Chinese context and may be 
+relevant across cultures. What may differ cross-culturally 
+is the relative salience and expression of these mecha -
+nisms rather than their fundamental presence. Future 
+cross-cultural research is therefore needed to examine 
+the generalizability of these findings and to clarify how 
+cultural frameworks interact with psychological pro -
+cesses in shaping acceptance of AI-mediated posthumous 
+technologies.
+
+Page 12 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+Theoretical implications for technology acceptance and 
+human–AI interaction
+With respect to technology acceptance theory, the pres -
+ent findings indicate that applying the Technology Accep-
+tance Model (TAM) to existentially sensitive applications 
+such as AI resurrection requires reconsideration of its 
+core assumptions. TAM-based research typically concep-
+tualizes acceptance as an instrumental evaluation driven 
+by perceived usefulness and ease of use. In contrast, the 
+findings of this study suggest that, in posthumous AI con-
+texts, acceptance judgments are fundamentally shaped by 
+moral legitimacy and the clarity of consent, in addition to 
+cognitive evaluations. Rather than rejecting TAM, these 
+results highlight its contextual limitations and suggest 
+that cognitive assessments operate alongside ethical and 
+affective considerations when AI technologies engage 
+with death and identity.
+Beyond TAM, this study extends understanding of 
+human–AI interaction by demonstrating that trust, fear, 
+and consent function differently in existential contexts 
+than in conventional AI applications. Trust in AI in the 
+context of resurrection is not limited to technical predict-
+ability or controllability, but also involves perceived moral 
+alignment with human values when AI systems represent 
+the deceased. AI fear does not act as a uniformly inhib -
+iting factor; instead, its influence varies depending on 
+consent conditions, reflecting a context-sensitive affec -
+tive response. Consent, which is often treated as a proce -
+dural prerequisite in conventional AI systems, emerges in 
+this study as a central factor shaping both moral reason -
+ing and emotional responses across scenarios. Together, 
+these findings clarify how human–AI interaction in exis -
+tential domains departs from conventional AI use cases 
+and underscore the need for context-aware approaches to 
+technology acceptance.
+Scenario-level synthesis
+Across the five consent scenarios, a consistent pattern 
+emerged in which acceptance was lowest when consent 
+was unclear, and higher when explicit consent, either 
+from the individual prior to death or from close family 
+members, was present. Moreover, differences between 
+self- and parent-perspective scenarios suggest that accep-
+tance judgments are shaped not only by consent status 
+but also by role-based moral reasoning, reflecting how 
+individuals negotiate responsibility, authority, and emo -
+tional proximity in decisions about posthumous digital 
+representation.
+Limitations
+The present study has several limitations that should be 
+considered when interpreting the findings.
+First, the cross-sectional design of this study precludes 
+causal inference. Although significant associations were 
+identified between cognitive, affective, and demographic 
+variables and acceptance of AI resurrection, the direc -
+tionality and causality of these relationships cannot be 
+determined from the present data. All findings should 
+therefore be interpreted as reflecting correlational pat -
+terns rather than causal effects. Longitudinal or experi -
+mental designs are needed in future research to establish 
+temporal precedence and clarify the causal mechanisms 
+underlying acceptance of AI resurrection technologies.
+Second, the sample was relatively homogeneous, with 
+the majority of participants aged between 17 and 29 years 
+and a high proportion of medical students. In addition, 
+the sample exhibited limited variability in age and educa -
+tional background. These characteristics may restrict the 
+generalizability of the findings to broader populations, 
+including Chinese society as a whole. Future studies 
+should recruit more diverse samples across age groups, 
+educational backgrounds, and social contexts to enhance 
+external validity.
+Third, AI harm predictability and AI fear were assessed 
+using single-item measures. Although single-item mea -
+sures can be appropriate in exploratory research with 
+large samples, they may limit construct precision and 
+reliability. Future research should employ validated 
+multi-item scales to more comprehensively capture 
+different dimensions of AI-related concerns, includ -
+ing distinctions between general technological anxiety 
+and moral or existential unease related to posthumous 
+technologies.
+Fourth, several potentially relevant psychologi -
+cal variables were not measured in the present study, 
+such as death anxiety and prior exposure to AI resur -
+rection technologies or related narratives. These fac -
+tors may influence individuals’ emotional responses and 
+ethical judgments regarding AI resurrection. Future 
+research should incorporate these variables to further 
+clarify the psychological mechanisms underlying accep -
+tance and resistance toward AI-mediated posthumous 
+technologies.
+Implications
+The findings of this study have important implications for 
+education, policy, and future research on ethically sensi -
+tive AI applications, particularly those involving death, 
+identity, and posthumous data.
+Educational implications
+The present findings suggest that AI literacy in ethically 
+sensitive domains should extend beyond technical com -
+petence to include ethical reasoning, consent aware -
+ness, and cultural understanding. While prior work often 
+frames AI literacy in terms of functional skills, our results 
+indicate that acceptance of AI resurrection is closely tied 
+
+Page 13 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+to individuals’ cognitive familiarity with AI as well as 
+their ethical and emotional evaluations.
+However, prior research has shown that most col -
+lege students do not receive structured AI instruction 
+[22], and a U.S. survey reported that about half of stu -
+dents were concerned about AI’s influence on education, 
+while 60% indicated that their institutions had not clearly 
+defined ethical guidelines for AI use [ 44]. Although these 
+figures come from a U.S. context, they illustrate that ethi-
+cal guidance often lags behind rapid adoption of genera -
+tive AI in higher education. Accordingly, educational 
+programs should emphasize three specific components of 
+AI literacy that are particularly relevant for death-related 
+AI applications.
+First, ethical awareness should be strengthened by 
+engaging students in structured discussions about moral 
+dilemmas raised by posthumous technologies, including 
+autonomy, dignity, identity continuity, and psychological 
+harm. Scenario-based learning, similar to the vignettes 
+used in this study, may be especially effective for foster -
+ing ethical reflection in emotionally complex contexts.
+Second, informed consent literacy should be explic -
+itly addressed. Students should be trained to understand 
+consent not only as a legal requirement but as an ongo -
+ing ethical process, particularly when AI systems operate 
+beyond the lifespan of the data subject. This includes rec -
+ognizing the limits of proxy decision-making, the role of 
+prior expressed wishes, and the long-term implications of 
+posthumous data use.
+Third, cultural sensitivity should be incorporated into 
+AI education. Given that attitudes toward death, per -
+sonhood, and family responsibility vary across cultural 
+contexts, AI literacy programs should help students rec -
+ognize how cultural frameworks shape ethical judgments. 
+This is particularly important for AI systems intended for 
+global deployment, where culturally insensitive design 
+may undermine public trust and acceptance.
+Ethical and policy implications
+From a policy perspective, the findings underscore the 
+need for context-specific consent frameworks for ethi -
+cally sensitive AI applications such as AI resurrection. 
+Unlike conventional AI systems, posthumous technolo -
+gies raise unique challenges regarding autonomy, moral 
+responsibility, and the authority to decide on behalf of 
+the deceased.
+Many participants favored prioritizing the deceased’s 
+wishes or balancing them with family involvement, 
+underscoring both strong support for lifetime consent 
+and the perceived ethical relevance of relational decision-
+making. This pattern highlights both strong support for 
+lifetime consent and the perceived ethical relevance of 
+family involvement in posthumous decision-making.
+Taken together, these findings suggest that explicit 
+lifetime consent should be treated as a primary ethi -
+cal safeguard for AI resurrection, while also acknowl -
+edging the relational dimensions of decision-making in 
+death-related contexts. Regulatory frameworks should 
+therefore require clear, informed, and revocable consent 
+mechanisms established during an individual’s lifetime, 
+specifying the scope, duration, and permissible uses of 
+posthumous digital representations.
+At the same time, consent frameworks should remain 
+flexible enough to account for cultural and relational dif -
+ferences. In societies where family responsibility plays a 
+central moral role, policy designs may need to balance 
+individual autonomy with family participation, while still 
+prioritizing the expressed wishes of the deceased. Avoid -
+ing one-size-fits-all consent models and adopting cultur -
+ally adaptive governance approaches may help reduce 
+ethical conflict, perceived uncertainty, and public resis -
+tance to posthumous AI technologies.
+Research implications
+This study also points to several directions for future 
+research. First, given the exploratory nature of the pres -
+ent work, future studies should employ longitudinal, 
+qualitative, or mixed-methods designs to examine how 
+attitudes toward AI resurrection evolve over time and 
+across different life stages or experiences with loss.
+Second, future research should refine the measurement 
+of AI-related affect by distinguishing between differ -
+ent dimensions of AI fear, such as technological anxiety, 
+moral unease, and existential concern related to iden -
+tity and dignity. Using validated multi-item scales would 
+allow for a more precise examination of how emotional 
+responses interact with trust and consent judgments in 
+ethically sensitive AI contexts.
+Finally, as suggested by Nawrat [ 45], advancing AI 
+research can enhance our understanding of how to 
+design, validate, and integrate socially responsible AI 
+solutions. This includes improving consent frameworks, 
+ensuring transparency, and addressing ethical concerns 
+in AI applications, particularly those involving human 
+identity and posthumous technologies. Comparative 
+cross-cultural research is also needed to investigate 
+how consent preferences, trust calibration, and affective 
+responses to AI resurrection vary across societies with 
+different cultural views on death, autonomy, and family 
+responsibility. Such work would help clarify which psy -
+chological mechanisms identified in this study are cultur-
+ally specific and which may generalize across contexts, 
+thereby informing the responsible global governance of 
+posthumous AI technologies.
+
+Page 14 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+Conclusions
+This study contributes empirical evidence on the psy -
+chological mechanisms and contextual factors shaping 
+acceptance of AI resurrection among Chinese college 
+students. By integrating cognitive (AI engagement, harm 
+predictability) and affective (AI fear) dimensions within 
+a moral framework, the study highlights the interplay 
+between technological trust and ethical awareness. The 
+results emphasize that consent, transparency, and famil -
+iarity are key correlates of acceptance within this sample 
+of public acceptance. Future research should further 
+explore emotional and cultural factors through qualita -
+tive or cross–cultural approaches to support the ethical 
+governance of AI resurrection and related technologies.
+Abbreviations
+AI  Artificial intelligence
+TAM  Technology acceptance model
+SD  Standard deviation
+OR  Odds ratio
+CI  Confidence interval
+SPSS  Statistical package for the social sciences
+Supplementary Information
+The online version contains supplementary material available at  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  1 1 8 6  / s  4 0 3 5 9 - 0 2 6 - 0 4 4 9 6 - 4.
+Supplementary Material 1.
+Acknowledgements
+The authors thank all the students who participated in the survey for their 
+valuable time and insights.
+Authors' contributions
+NC (Nini Cheng) contributed to study design, data collection, statistical 
+analysis, and manuscript drafting.WH (Weitao Huang) supervised the project, 
+contributed to conceptualization, methodology, and data interpretation, and 
+critically revised the manuscript.MS (Mei Sun) provided overall supervision, 
+contributed to study design, and reviewed and approved the final version of 
+the manuscript.All authors read and approved the final manuscript.
+Funding
+This work was supported by the Comprehensive Research Project on Graduate 
+Education and Teaching Reform, Central South University (Project number: 
+2025YJSKS001), and the Hunan Provincial Philosophy and Social Science 
+Foundation (Project number: 22YBQ006).
+Data availability
+The datasets generated and/or analysed during the current study are not 
+publicly available due to ethical and privacy restrictions but are available from 
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study was conducted in accordance with the ethical principles of 
+the Declaration of Helsinki. Ethical approval was obtained from the Ethics 
+Committee of Xiangya School of Nursing, Central South University.
+All participants provided electronic informed consent prior to participation. 
+Respondents were informed of the study’s purpose, voluntary nature, 
+confidentiality assurances, and their right to withdraw at any time without 
+consequence.
+Consent for publication
+Not applicable. This manuscript does not contain any individual person’s data 
+in any form (including individual details, images, or videos).
+Competing interests
+The authors declare no competing interests.
+Received: 9 November 2025 / Accepted: 31 March 2026
+References
+1. Bell G, Gray J. Digital immortality. Tools Technol. 2001;44(3):28–31.
+2. Savin-Baden M, Burden D. Digital Immortality and Virtual Humans. Postdigit 
+Sci Educ. 2019;1(1):87–103.
+3. DeepSeek Team. DeepSeek . 2024. Available from:  h t t p  s : /  / g i t  h u  b . c  o m /  d e e p  s 
+e  e k - a i
+4. OpenAI. ChatGPT. 2025. Available from:  h t t p  s : /  / o p e  n a  i . c  o m /  c h a t  g p  t / o v e r v i e 
+w /
+5. Harbinja E. Potential alternatives? SCRIPTed. 2013;10(1):19–38. Does the EU 
+data protection regime protect post-mortem privacy and what could be.
+6. Morse T, Birnhack M. The posthumous privacy paradox: Privacy prefer-
+ences and behavior regarding digital remains. New Media Soc. 2022 
+June;24(6):1343–62.
+7. Ouhnni H, Ziti S, El Bouchti K, Meryam B, Lagmiri SN. Digital afterlife: chal-
+lenges and technological innovations in pursuit of immortality. IJEECS. 
+2025;37(2):1387.
+8. Davis FD, Perceived, usefulness. perceived ease of use, and user acceptance 
+of information technology. MIS Q. 1989 Sept;13(3):319.
+9. Venkatesh V, Morris MG, Davis GB, Davis FD. User acceptance of information 
+technology: toward a unified view. MIS Q. 2003;27(3):425–78.
+10. Pinto Dos Santos D, Giese D, Brodehl S, Chon SH, Staab W, Kleinert R, et al. 
+Medical students’ attitude towards artificial intelligence: a multicentre survey. 
+Eur Radiol. 2019;29(4):1640–6.
+11. Rahman MM, Watanobe Y. ChatGPT for education and research: opportuni-
+ties, threats, and strategies. Appl Sci. 2023;13(9):5783.
+12. Sparrow R, Zhang EY. Reanimating the ancestors: digital personality emula-
+tions, ancestor veneration and ethics. Volume 14614448251317461. New 
+Media & Society; 2025.
+13. Glikson E, Woolley AW. Human trust in artificial intelligence: review of empiri-
+cal research. ANNALS. 2020 July;14(2):627–60.
+14. Kamal SA, Shafiq M, Kakria P . Investigating acceptance of telemedicine 
+services through an extended technology acceptance model (TAM). Technol 
+Soc. 2020;60:101212.
+15. Faqih KMS, Jaradat MIRM. Integrating TTF and UTAUT2 theories to investigate 
+the adoption of augmented reality technology in education: perspective 
+from a developing country. Technol Soc. 2021;67:101787.
+16. Lu Y, Papagiannidis S, Alamanos E. Exploring the emotional antecedents and 
+outcomes of technology acceptance. Comput Hum Behav. 2019;90:153–69.
+17. Shin D. The effects of explainability and causability on perception, trust, 
+and acceptance: implications for explainable AI. Int J Hum Comput Stud. 
+2021;146:102551.
+18. Hoff KA, Bashir M. Trust in automation: integrating empirical evidence on 
+factors that influence trust. Hum Factors. 2015;57(3):407–34.
+19. Mcknight DH, Carter M, Thatcher JB, Clay PF. Trust in a specific technology: an 
+investigation of its components and measures. ACM trans manage inf syst. 
+2011 July;2(2). Available from:  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 4 5  / 1  9 8 5 3 4 7 . 1 9 8 5 3 5 3
+20. Caldwell A. AI fear and adoption: modelling the connection. IJICR. 2024 June 
+30;15(1):1256–62.
+21. Zhan ES, Molina MD, Rheu M, Peng W. What is There to fear? understanding 
+multi-dimensional fear of ai from a technological affordance perspective. Int J 
+Human–Computer Interact. 2024;40(22):7127–44.
+22. Till H, Elsayed H, Escolino M, Esposito C, Shehata S, Singer G. Artificial Intel-
+ligence (AI) competency and educational needs: results of an AI survey of 
+members of the European society of pediatric endoscopic surgeons (ESPES). 
+Children. 2024;12(1):6.
+23. Ziapour A, Darabi F, Janjani P , Amani MA, Yıldırım M, Motevaseli S. Factors 
+affecting medical artificial intelligence (AI) readiness among medical stu-
+dents: taking stock and looking forward. BMC Med Educ. 2025;25(1):264.
+24. Adadi A, Berrada M. Peeking inside the black-box: a survey on explainable 
+artificial intelligence (XAI). IEEE Access. 2018;6:52138–60.
+
+Page 15 of 15
+Cheng et al. BMC Psychology          (2026) 14:794 
+25. Akhtar MAK, Kumar M, Nayyar A. Transparency and accountability in explain-
+able AI: Best Practices. In: Akhtar MAK, Kumar M, Nayyar A, editors. Towards 
+ethical and socially responsible explainable AI: challenges and opportunities. 
+Cham: Springer Nature Switzerland; 2024. pp. 127–64. Available from:  h t t p  s : /  / 
+d o i  . o  r g /  1 0 .  1 0 0 7  / 9  7 8 -  3 - 0  3 1 - 6  6 4  8 9 - 2 _ 5
+26. Hilliard A, Kazim E, Ledain S. Are the robots taking over? On AI and perceived 
+existential risk. AI Ethics. 2025 June;5(3):2929–42.
+27. Mirbabaie M, Brünker F, Möllmann Frick NRJ, Stieglitz S. The rise of artificial 
+intelligence – understanding the AI identity threat at the workplace. Electron 
+Markets. 2022;32(1):73–99.
+28. Henrique BM, Santos E. Trust in artificial intelligence: literature review and 
+main path analysis. Computers Hum Behavior: Artif Hum. 2024;2(1):100043.
+29. Zhou Q, Yang L, Tang Y, Yang J, Zhou W, Guan W et al. The mediation of trust 
+on artificial intelligence anxiety and continuous adoption of artificial intelli-
+gence technology among primacy nurses: a cross-sectional study. BMC Nurs. 
+2025 July 1;24(1):724.
+30. Iwasaki M. Digital cloning of the dead: exploring the optimal default rule. 
+Asian J Law Econ. 2024;15(1):1–29.
+31. Hosmer DW, Lemeshow S, Sturdivant RX. Applied Logistic Regression. Wiley; 
+2013. (Wiley Series in Probability and Statistics). Available from:  h t t p  s : /  / b o o  k s  . 
+g o  o g l  e . c o  m .  s g /  b o o  k s ? i  d =  b R o x Q B I Z R d 4 C
+32. Peduzzi P , Concato J, Kemper E, Holford TR, Feinstein AR. A simulation study 
+of the number of events per variable in logistic regression analysis. J Clin 
+Epidemiol. 1996;49(12):1373–9.
+33. Laakasuo M, Sundvall J, Francis K, Drosinou M, Hannikainen I, Kunnari A, et 
+al. Would you exchange your soul for immortality?—existential mean-
+ing and afterlife beliefs predict mind upload approval. Front Psychol. 
+2023;14:1254846.
+34. Leaune E, Rouzé H, Lestienne L, Bislimi K, Morgiève M, Chalancon B, et al. 
+The use of social media after bereavement by suicide: results from a French 
+online survey. BMC Psychiatry. 2024;24(1):306.
+35. Lee JD, See KA. Trust in automation: designing for appropriate reliance. Hum 
+Factors. 2004;46(1):50–80.
+36. Slovic P . Perception of risk. Science. 1987;236(4799):280–5.
+37. Bisdas S, Topriceanu CC, Zakrzewska Z, Irimia AV, Shakallis L, Subhash J, et al. 
+Artificial intelligence in medicine: a multinational multi-center survey on the 
+medical and dental students’ perception. Front Public Health. 2021;9:795284.
+38. Liviatan I, Trope Y, Liberman N. Interpersonal similarity as a social distance 
+dimension: Implications for perception of others’ actions. J Exp Soc Psychol. 
+2008 Sept;44(5):1256–69.
+39. Lu J, Xie X. To change or not to change: a matter of decision maker’s role. 
+Organ Behav Hum Decis Process. 2014;124(1):47–55.
+40. Greenberg J, Pyszczynski T, Solomon S. The causes and consequences of a 
+need for self-esteem: a terror management theory. In: Baumeister RF, editor. 
+Public Self and Private Self. New York, NY: Springer New York; 1986. pp. 
+189–212. Available from:  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / 9  7 8 -  1 - 4  6 1 3 -  9 5  6 4 - 5 _ 1 0.
+41. Hamadeh RR, Abuelaish I, Yousufzai SJ, AlShammari YA, Ahmed YE, Jahrami 
+HA. Knowledge and attitudes of medical students toward death: a cross-
+sectional comparative study between an Arab and a Western University. BMC 
+Psychol. 2024;12(1):133.
+42. McGee JC, Minagar A. Medical students and brain death: an educational 
+initiative. Clin Neurol Neurosurg. 2018 July;170:116.
+43. Tsai DFC. The confucian personhood and informed consent.
+44. Welding L. Half of college students say using AI on schoolwork is cheating or 
+plagiarism. BestColleges [Internet]. 2023; Available from:  h t t p  s : /  / w w w  . b  e s t  c o l  
+l e g e  s .  c o m  / r e  s e a r  c h  / c o l l e g e - s t u d e n t s   - a i - t o o l s - s u r v e y /
+45. Nawrat Z, MIS [Internet]. MIS AI - artificial intelligence application in mini-
+mally invasive surgery. 2020 May 16;2020. Available from:  h t t p s :   /  / w w  w .  o a e  p u 
+b l  i s  h  . c   o m  / a r t  i c l   e s  / 2  5 7 4 - 1  2 2 5 .  2 0 2 0 . 0 8. cited 2025 May 14.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+

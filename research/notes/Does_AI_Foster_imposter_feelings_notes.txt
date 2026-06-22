@@ -1,0 +1,108 @@
+================================================================================
+  EXECUTIVE ANALYSIS & SYSTEMATIC NOTES
+  PAPER: Does AI Foster Imposter Feelings? The Impact of Task Design on Students' Use of AI
+  AUTHORS: Santiago Batista-Toledo & Diana Gavilan (Complutense University of Madrid)
+  PUBLICATION: Education and Information Technologies (January 2026, Vol. 31, Iss. 8)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. ABSTRACT & CORE HYPOTHESIS
+--------------------------------------------------------------------------------
+* The rapid growth of generative AI in higher education allows students to complete 
+  complex academic tasks in seconds, offering polished and high-quality outputs.
+* However, tasks designed by educators have not evolved alongside these tools.
+* Core Dilemma: When students use AI as a complete replacement for their learning 
+  process rather than an aid, their overall cognitive growth and psychological 
+  well-being are severely impacted.
+* Hypothesis: The psychological impact of AI on students is mediated by task design.
+  Specifically, "Delegable Tasks" (which allow students to offload the core cognitive 
+  work to AI) reduce psychological ownership, lower perceived effort, erode agency, 
+  and ultimately foster and intensify Academic Impostor Syndrome (AIS) over time.
+
+--------------------------------------------------------------------------------
+2. METHODOLOGY: EXPERIMENTAL SETUP & TASK DESIGN METRICS
+--------------------------------------------------------------------------------
+The authors conducted three empirical studies with social sciences students, utilizing 
+an experimental framework to test how different task designs shape the AI-human 
+interaction loop.
+
+The tasks were categorized into two distinct paradigms (using a case study on IKEA's 
+second-hand furniture marketplace, "IKEA Preowned"):
+
+A. DELEGABLE TASKS (Offloading Paradigm)
+* Definition: Tasks where the primary cognitive requirements are information retrieval, 
+  summarization, structural comparisons, and basic profiling. These tasks are easily 
+  solved by AI with simple copy-paste prompts, requiring minimal human intervention.
+* IKEA Case Study Examples:
+  1. Summarizing IKEA's differentiation strategies in the second-hand market.
+  2. Formatting a comparison matrix of business models (IKEA vs. Wallapop/Vinted).
+  3. Describing how sustainability concerns impact IKEA's youth brand perception.
+  4. Outlining a demographic consumer profile for re-commerce buyers.
+  5. Comparing pricing structures numerically between primary and secondary markets.
+* Cognitive Outcome: Simple information retrieval and structured comparison. 
+  Students act as "postmen" or "editors" rather than creators.
+
+B. SUPPORTED TASKS (Co-Creation/Synthesis Paradigm)
+* Definition: Tasks requiring strategic evaluation, high-level judgment, cultural 
+  interpretation, experimental design critique, and decoding anomaly behaviors. 
+  AI cannot solve these tasks independently; it can only support the student, 
+  who must guide, synthesize, and make final value judgments.
+* IKEA Case Study Examples:
+  1. Formulating strategic recommendations on how IKEA can compete against 
+     Wallapop without diluting its premium brand identity.
+  2. Interpreting the complex cultural influence of the "Greta effect" on global 
+     consumer psychology and sales.
+  3. Proposing mechanisms for adapting to re-commerce trends without alienating 
+     loyal, legacy customers.
+  4. Critically evaluating an experimental pilot program (IKEA Preowned) based 
+     on experimental design, variables, and data collection.
+  5. Explaining anomalous consumer behaviors (e.g., why buying used goods on 
+     Wallapop is sometimes more expensive than buying brand-new items from IKEA).
+* Cognitive Outcome: Critical reasoning, value judgment, and strategic synthesis. 
+  The human remains the pilot; the AI serves as the radar.
+
+--------------------------------------------------------------------------------
+3. THE PSYCHOLOGICAL METRICS MEASURED
+--------------------------------------------------------------------------------
+The studies tracked five critical psychological variables:
+
+1. Perceived Learning: The student’s conscious estimation of new knowledge acquired.
+2. Perceived Effort: The mental energy expended in task resolution.
+3. Student Agency (Sense of Agency - SoA): The degree of control students feel they 
+   have over their own thoughts, decisions, and output.
+4. Psychological Ownership (PO): The possessive feeling that "this work belongs 
+   to me" because I invested my personal energy, time, and intellect into it.
+5. Academic Impostor Syndrome (AIS): The persistent, internal feeling of being 
+   an intellectual fraud, fearing that others will realize they are incompetent 
+   and rely entirely on external crutches (the AI) to succeed.
+
+--------------------------------------------------------------------------------
+4. KEY FINDINGS: THE DELEGATION SPIRAL
+--------------------------------------------------------------------------------
+* The Delegation Trap: Tasks that permit or encourage students to delegate 
+  decision-making/work to AI degrade the overall learning experience. Students 
+  expend less effort, resulting in a drop in perceived learning.
+* The Eeriness of Zero-Effort: When students get a perfect paper with zero mental 
+  exertion, they fail to develop Psychological Ownership. They view the output 
+  as the AI's product, not their own.
+* The Impostor Incubator: The mismatch between the high quality of the AI-generated 
+  output and the low effort input by the student creates a profound sense of 
+  fraudulence.
+* The Sleeper Effect: Crucially, these imposter feelings do not fade as students 
+  become more familiar with AI. Instead, the study reveals a temporal "sleeper 
+  effect"—the feelings of being a fake intensify over time as dependency grows.
+* Supported Tasks as a Shield: When tasks are designed to be "supported" (requiring 
+  strategic and subjective human input), AI usage does not foster imposter 
+  syndrome. Because the student must direct and filter the AI, their sense of 
+  agency and psychological ownership remains intact.
+
+--------------------------------------------------------------------------------
+5. PRESENTATION OUTLINE TAKEAWAYS (STORYLINE C METAPHOR)
+--------------------------------------------------------------------------------
+* Metaphor: "The Insecurity of the Shadow Author."
+* Main Lesson: If we design systems and roles where humans only copy-paste and 
+  delegate, we cultivate a generation of insecure, imposter-ridden professionals.
+* Slide Visual Concept: A student standing before an enormous, flawless academic 
+  monument, holding a tiny remote control, looking terrified.
+* Headline: "Who wrote this? The rise of the human ghostwriter."
+================================================================================

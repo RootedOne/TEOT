@@ -1,0 +1,145 @@
+Advertisement
+Francesco Branda
+148 Accesses 1 Altmetric Explore all metrics 
+Abstract
+Recent work in Philosophy & Technology, such as the analysis of artificial intelligence as
+“artificial colleagues” by Bieber and Unruh (2025), has examined the practical integration
+of AI systems within organizational environments. Building on this perspective, this
+commentary argues that such analyses overlook a crucial dimension of AI adoption: its
+performative and symbolic character. Focusing on the rise of “AI-first” strategies, the
+paper shows that organizational engagement with AI cannot be understood solely in terms
+of implementation and functionality. Rather, it often reflects a form of performative
+organizational rationality through which institutions signal innovation and alignment
+with broader technological expectations. This commentary extends the analysis of
+artificial colleagues by highlighting the gap between narrative and practice in
+contemporary AI adoption.
+ This is a preview of subscription content, log in via an institution to check access.
+Similar content being viewed by others
+Explore related subjects
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+Logic in AI Intelligence Augmentation Philosophy of Artificial Intelligence Symbolic AI
+Transhumanism Artificial Intelligence
+Data Availability
+Data sharing is not applicable to this article as no datasets were generated or analyzed
+during the current study. The cartoon reproduced in Fig. 1 is publicly available through the
+source cited in the caption and is used for scholarly analysis purposes.
+References
+Floridi, L. (2024). Why the AI hype is another tech bubble. Philosophy & Technology, 37(4),
+128.
+ArticleGoogle Scholar
+Bieber, F., & Unruh, C. F. (2025). The potential and limitations of artificial colleagues.
+Philosophy & Technology, 38(2), 60.
+ArticleGoogle Scholar
+Winner, L. (2020). The whale and the reactor: A search for limits in an age of high technology
+(p. 20). University of Chicago Press.
+Brynjolfsson, E., & McAfee, A. (2014). The second machine age: Work progress and prosperity
+in a time of brilliant technologies (p. 20). WW Norton & Company.
+Bijker, W. E., Hughes, T. P., & Pinch, T. J. (1994). The social construction of technological
+systems: New directions in the sociology and history of technology. MIT Press.
+Floridi, L. (2014). The fourth revolution: How the infosphere is reshaping human reality. OUP
+Oxford. Jun 26.
+Download references
+Acknowledgements
+Not applicable.
+Funding
+No funding was received for conducting this study or for its publication.
+Author information
+Authors and Affiliations
+Unit of Medical Statistics and Molecular Epidemiology, University Campus Bio-Medico
+of Rome, Rome, Italy
+Francesco Branda
+Contributions
+Francesco Branda is the sole author of this manuscript and is responsible for its
+conceptualization, literature review, analysis, writing, and final approval.
+Corresponding author
+Correspondence to Francesco Branda.
+Ethics declarations
+Ethics Approval and Consent to Participate
+Not applicable.
+Consent for Publication
+Not applicable.
+Competing interests
+The author declares no competing interests.
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this
+article under a publishing agreement with the author(s) or other rightsholder(s); author
+self-archiving of the accepted manuscript version of this article is solely governed by the
+terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Branda, F. The Illusion of “AI-First”: Organizational Rationality and the Performative
+Translation of AI Hype. Philos. Technol.39, 66 (2026). https://doi.org/10.1007/s13347-
+026-01081-w
+Download citation
+Received
+18 March 2026
+Accepted
+24 March 2026
+Published
+30 March 2026
+Version of record
+30 March 2026
+DOI
+https://doi.org/10.1007/s13347-026-01081-w
+Keywords
+Artificial Intelligence AI-first Strategies Technological Hype
+Sociotechnical Systems Organizational Rationality
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support
+Legal notice Cancel contracts here
+Logged in as Teng0 ali - 104.28.155.78
+Not affiliated
+© 2026 Springer Nature
+Account
+Find a journal Publish with us Track your research Search Saved research Cart
+Chapter © 2024
+Investigating the Artificial
+Intelligence Debate in
+Organisation and
+Management Studies
+Chapter © 2021
+What Does Artificial
+Intelligence Mean for
+Organizations? A
+Systematic Review of…
+Chapter © 2026
+Understanding
+Organizational Decision to
+Adopt AI Technologies: A
+Qualitative Study
+Home Philosophy & Technology Article
+The Illusion of “AI-First”: Organizational
+Rationality and the Performative
+Translation of AI Hype
+Commentary Published: 30 March 2026
+Volume 39, article number 66 (2026) Cite this article
+Save article
+Aims and scope
+Submit manuscript
+Philosophy & Technology
+

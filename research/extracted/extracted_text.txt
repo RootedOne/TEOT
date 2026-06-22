@@ -1,0 +1,366 @@
+Advertisement
+Santiago Batista-Toledo  & Diana Gavilan
+1090 Accesses 1 CitationExplore all metrics 
+Abstract
+The adoption of artificial intelligence (AI) in higher education is transforming the way
+students experience the learning process. The ability of AI to complete academic tasks in
+seconds and with high quality makes it an appealing tool for students. However, teachers
+have not adapted their tasks to the use of this tool. Inappropriate use of AI by students—
+using it as a replacement for their own learning process—can negatively impact their
+learning experience. This study examines how task design—whether delegable or
+supported—affects students’ learning experiences when using AI. Following an
+experimental methodology, three studies were conducted to evaluate perceived learning,
+perceived effort, student agency, psychological ownership of tasks, and impostor
+syndrome among social sciences students. The study also explores how these perceptions
+evolve over time. The findings show that tasks that encourage delegating resolution to AI
+deteriorate the learning experience and sense of task ownership by students. Moreover, the
+way students use AI plays a key role in the development of impostor syndrome, a
+phenomenon that intensifies over time. The study concludes by emphasizing that effective
+AI integration requires the joint commitment of both teachers and students, with specific
+training in the use of AI tools being essential.
+ This is a preview of subscription content, log in via an institution to check access.
+Similar content being viewed by others
+Explore related subjects
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+Educational Research Educational Psychology Instructional Design
+Instructional Psychology Learning and Instruction Artificial Intelligence
+Data Availability
+The data that support the findings of this study are available from the authors upon
+reasonable request.
+References
+Abimbola, C. E., Chisom, O. N., & Adeniyi, I. S. (2024). Harnessing technology integration
+in education: Strategies for enhancing learning outcomes and equity. World Journal of
+Advanced Engineering Technology and Sciences, 11(2), 1–8.
+https://doi.org/10.30574/wjaets.2024.11.2.0071
+ArticleGoogle Scholar
+Aisyah, P. D. Y., Yandhini, S., Sari, A. D. P., Herawani, I., & Oktarini, I. (2024). The
+influence of AI on students’ mind patterns. BICC Proceedings, 2(1), 184–186.
+https://doi.org/10.30983/bicc.v1i1.125
+ArticleGoogle Scholar
+Alharbi, W. (2024). Mind the gap, please! Addressing the mismatch between teacher
+awareness and student AI adoption in language education within higher education.
+International Journal of Computer-Assisted Language Learning and Teaching, 14(1), 1–16.
+https://doi.org/10.4018/IJCALLT.351245
+ArticleGoogle Scholar
+Almaraz-López, C., Almaraz-Menéndez, F., & López-Esteban, C. (2023). Comparative
+study of the attitudes and perceptions of university students in business administration
+and management and in education toward artificial intelligence. Education Sciences, 13(6),
+609. https://doi.org/10.3390/educsci13060609
+ArticleGoogle Scholar
+Alonzo, D. L. R., del Valencia, M. C. G., Vargas, J. A. C., del Bolívar, N. J. F., & de García, M. J.
+R. (2016). Los estilos de aprendizaje en la formación integral de los estudiantes. Revista
+Boletín Redipe, 5(4), 109–114 https://revista.redipe.org/index.php/1/article/view/105
+Google Scholar
+Alqurashi, E. (2019). Predicting student satisfaction and perceived learning within online
+learning environments. Distance Education, 40(1), 133–148.
+https://doi.org/10.1080/01587919.2018.1553562
+ArticleGoogle Scholar
+Appel, M., & Richter, T. (2007). Persuasive effects of fictional narratives increase over
+time. Media Psychology, 10(1), 113–134. https://doi.org/10.1080/15213260701301194
+ArticleGoogle Scholar
+Balalle, H., & Pannilage, S. (2025). Reassessing academic integrity in the age of AI: A
+systematic literature review. Social Sciences & Humanities Open, 11, 101299.
+https://doi.org/10.1016/j.ssaho.2025.101299
+ArticleGoogle Scholar
+Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19
+http://www.jstor.org/stable/3328150
+ArticleGoogle Scholar
+Cooper-Martin, E. (1994). Measures of cognitive effort. Marketing Letters, 5(1), 43–56
+https://www.jstor.org/stable/40216323
+ArticleGoogle Scholar
+Cozzarelli, C., & Major, B. (1990). Exploring the validity of the impostor phenomenon.
+Journal of Social and Clinical Psychology, 9(4), 401–417.
+https://doi.org/10.1521/jscp.1990.9.4.401
+ArticleGoogle Scholar
+Cubillos, C., Mellado, R., Cabrera-Paniagua, D., & Urra, E. (2025). Generative artificial
+intelligence in computer programming: Does it enhance learning, motivation, and the
+learning environment? IEEE Access, 13, 3532883.
+https://doi.org/10.1109/ACCESS.2025.3532883
+ArticleGoogle Scholar
+Davis, L. L. (1992). Instrument review: Getting the most from a panel of experts. Applied
+Nursing Research, 5(4), 194–197. https://doi.org/10.1016/S0897-1897(05)80008-4
+ArticleGoogle Scholar
+Draxler, F., Werner, A., Lehmann, F., Hoppe, M., Schmidt, A., Buschek, D., & Welsch, R.
+(2024). The AI ghostwriter effect: When users do not perceive ownership of AI-generated
+text but self-declare as authors. ACM Transactions on Computer-Human Interaction, 31(2),
+25. https://doi.org/10.1145/3637875
+ArticleGoogle Scholar
+Duncan, L., Taasoobshirazi, G., Vaudreuil, A., Kota, J. S., & Sneha, S. (2023). An evaluation
+of impostor phenomenon in data science students. International Journal of Environmental
+Research and Public Health, 20(5), 4115. https://doi.org/10.3390/ijerph20054115
+ArticleGoogle Scholar
+Gerlich, M. (2025). AI tools in society: Impacts on cognitive offloading and the future of
+critical thinking. Societies, 15(1), 6. https://doi.org/10.3390/soc15010006
+ArticleGoogle Scholar
+Gherhe ș , V., & Obrad, C. (2018). Technical and humanities students’ perspectives on the
+development and sustainability of artificial intelligence (AI). Sustainability, 10(9), 3066.
+https://doi.org/10.3390/su10093066
+ArticleGoogle Scholar
+Ghotbi, N., & Ho, M. T. (2021). Moral awareness of college students regarding artificial
+intelligence. Asian Bioethics Review, 13(4), 421–433. https://doi.org/10.1007/s41649-021-
+00182-2
+ArticleGoogle Scholar
+Gray, J. A., & Di Loreto, M. (2016). The effects of student engagement, student satisfaction,
+and perceived learning in online learning environments. International Journal of
+Educational Leadership Preparation,11(1), 98–119.
+Google Scholar
+Hair, J. F., Black, B., Babin, B., & Anderson, R. E. (2009). Multivariate data analysis (7th ed).
+Prentice Hall.
+Google Scholar
+Hassan, M., & Abubakar, A. F. (2025). Exploring the impact of integrative artificial
+intelligence tools on the writing proficiency of university students. Global Online Journal of
+Academic Research,4(1), 90–101.
+Google Scholar
+Isave, S. G. (2024). A study of the use of artificial intelligence by student-teachers. E-
+Methodology,10, 123–134.
+ArticleGoogle Scholar
+Ivanov, S. (2023). The dark side of artificial intelligence in higher education. The Service
+Industries Journal, 43(15–16), 1055–1082. https://doi.org/10.1080/02642069.2023.2258799
+ArticleGoogle Scholar
+Joshi, N., & Vogel, D. (2024). Writing with AI lowers psychological ownership, but longer
+prompts can help. arXivhttps://arxiv.org/abs/2404.03108
+Kleinnijenhuis, J. (2020). Sleeper effect. In J. Van den Bulck (Ed.), The international
+encyclopedia of media psychology (Vol. 3, pp. 1–7). Wiley.
+https://doi.org/10.1002/9781119011071.iemp0147
+ChapterGoogle Scholar
+Kolligian, J., Jr., & Sternberg, R. J. (1991). Perceived fraudulence in young adults: Is there
+an 'impostor syndrome'? Journal of Personality Assessment, 56(2), 308–326.
+https://doi.org/10.1207/s15327752jpa5602_10
+ArticleGoogle Scholar
+Kourtesis, P. (2024). The extended mind & body in extended realities: A scoping review of
+XR applications and risks in the metaverse [Preprint]. Preprints.org.
+https://doi.org/10.20944/preprints202409.0857.v2
+Kumkale, G. T., & Albarracín, D. (2004). The sleeper effect in persuasion: A meta-analytic
+review. Psychological Bulletin, 130(1), 143–172. https://doi.org/10.1037/0033-
+2909.130.1.143
+ArticleGoogle Scholar
+Kundu, A., & Bej, T. (2024). Psychological impacts of AI use on school students: A
+systematic scoping review of the empirical literature. Research and Practice in Technology
+Enhanced Learning, 20, 30. https://doi.org/10.58459/rptel.2025.20030
+ArticleGoogle Scholar
+Lammertyn, M. (2024). Las estadísticas de ChatGPT más impactantes y lo que revelan sobre el
+avance de la IA. Blog de InvGate https://blog.invgate.com/es/estadisticas-de-chatgpt
+Google Scholar
+Leary, M. R., Patton, K. M., Orlando, A. E., & Funk, W. W. (2000). The impostor
+phenomenon: Self-perceptions, reflected appraisals, and interpersonal strategies. Journal
+of Personality, 68(4), 725–756. https://doi.org/10.1111/1467-6494.00114
+ArticleGoogle Scholar
+Lubars, B., & Tan, C. (2019). Ask not what AI can do, but what AI should do: Towards a
+framework of task delegability. In Proceedings of the 33rd Conference on Neural Information
+Processing Systems (NeurIPS 2019)
+https://proceedings.neurips.cc/paper_files/paper/2019/file/d67d8ab4f4c10bf22aa353e278
+79133c-Paper.pdf
+Google Scholar
+Nylenna, M., Fagerbakk, F., & Kierulf, P. (2014). Authorship: Attitudes and practice among
+Norwegian researchers. BMC Medical Ethics, 15(1), 53. https://doi.org/10.1186/1472-6939-
+15-53
+ArticleGoogle Scholar
+Nypadymka, A., Lakiychuk, O., & Korbut, O. (2024). The role of AI in completing writing
+tasks by university students. Actual problems of the Humanities, 73(2), 351–355.
+https://doi.org/10.24919/2308-4863/73-2-54
+ArticleGoogle Scholar
+Papaioannou, G., Volakaki, M.-G., Kokolakis, S., & Vouyioukas, D. (2023). Learning spaces
+in higher education: A state-of-the-art review. Trends in Higher Education, 2(3), 526–545.
+https://doi.org/10.3390/higheredu2030032
+ArticleGoogle Scholar
+Pedreño Muñoz, A., González Gosálbez, R., Mora Illán, T., del Pérez Fernández, E. M., Ruiz
+Sierra, J., & Torres Penalva, A. (2024). Artificial intelligence in universities: Challenges and
+opportunities (1st ed.). Group 1MillionBot https://andrespedreno.com/ai-universities.pdf
+Google Scholar
+Pierce, J. L., Kostova, T., & Dirks, K. T. (2003). The state of psychological ownership:
+Integrating and extending a century of research. Review of General Psychology, 7(1), 84–
+107. https://doi.org/10.1037/1089-2680.7.1.84
+ArticleGoogle Scholar
+Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. Trends in Cognitive Sciences, 20(9),
+676–688. https://doi.org/10.1016/j.tics.2016.07.002
+ArticleGoogle Scholar
+Skulmowski, A. (2024). Placebo or assistant? Generative AI between externalization and
+anthropomorphization. Educational Psychology Review, 36, 58.
+https://doi.org/10.1007/s10648-024-09894-x
+ArticleGoogle Scholar
+Slimi, Z. (2023). The impact of artificial intelligence on higher education: An empirical
+study. European Journal of Educational Sciences, 10(1), 17–28.
+https://doi.org/10.19044/ejes.v10no1a1
+ArticleGoogle Scholar
+Slimi, Z., & Villarejo, B. C. (2023). Systematic review: AI'S impact on higher education –
+Learning, teaching, and career opportunities. TEM Journal, 12(3), 1627–1637.
+https://doi.org/10.18421/TEM123-44
+ArticleGoogle Scholar
+Song, J., & Lin, H. (2023). Exploring the effect of artificial intelligence intellect on
+consumer decision delegation: The role of trust, task objectivity, and anthropomorphism.
+Journal of Consumer Behaviour, 23(2), 727–747. https://doi.org/10.1002/cb.2234
+ArticleGoogle Scholar
+Sutrisman, H., Simanjuntak, R., Prihartanto, A., & Kusumo, B. (2024). The impact of
+using AI in learning on understanding of material by young students. International Journal
+of Educational Research, 1(3), 24–32. https://doi.org/10.62951/ijer.v1i3.43
+ArticleGoogle Scholar
+Tapal, A., Oren, E., Dar, R., & Eitam, B. (2017). The sense of agency scale: A measure of
+consciously perceived control over one’s mind, body, and the immediate environment.
+Frontiers in Psychology,8, Article 1552. https://doi.org/10.3389/fpsyg.2017.01552
+ArticleGoogle Scholar
+Wen, Z., Bai, E., & Li, M. (2024). An evaluation of the impact of artificial intelligence on
+university students' learning. Journal of Innovation and Development, 6(2), 22–25.
+ArticleGoogle Scholar
+Yang, X. (2022). Consumers’ purchase intentions in social commerce: The role of social
+psychological distance, perceived value, and perceived cognitive effort. Information
+Technology & People, 35(8), 330–348. https://doi.org/10.1108/ITP-02-2022-0091
+ArticleGoogle Scholar
+Zhao, P., & He, G. (2024). The impostor phenomenon of workplace artificial intelligence
+augmentation. Academy of Management Proceedings, 2024(1), 148.
+https://doi.org/10.5465/AMPROC.2024.148bp
+ArticleGoogle Scholar
+Download references
+Funding
+The authors declare that no funds, grants, or other support were received during the
+preparation of this manuscript.
+Author information
+Authors and Affiliations
+Department of Marketing, Faculty of Economic and Business Sciences, Complutense
+University of Madrid, Madrid, Spain
+Santiago Batista-Toledo
+Department of Marketing, Faculty of Information Sciences, Complutense University of
+Madrid, Madrid, Spain
+Diana Gavilan
+Corresponding author
+Correspondence to Santiago Batista-Toledo.
+Ethics declarations
+Competing interests
+The authors have no relevant financial or non-financial interests to disclose.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Appendix
+The war for the future of furniture is being fought in Madrid:
+https://www.elconfidencial.com/empresas/2024-09-25/ikea-segunda-mano-
+madrid_3968755/
+IKEA holds 9% of the global furniture market, but it is losing ground in the fast-growing
+pre-owned sector. Since August, the company has been running a pilot program in the
+Spanish capital, with potential global implications.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this
+article under a publishing agreement with the author(s) or other rightsholder(s); author
+self-archiving of the accepted manuscript version of this article is solely governed by the
+terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Batista-Toledo, S., Gavilan, D. Does AI Foster imposter feelings? The impact of task design
+on students’ use of AI. Educ Inf Technol31, 2123–2143 (2026).
+https://doi.org/10.1007/s10639-025-13883-0
+Download citation
+Received
+10 June 2025
+Accepted
+24 December 2025
+Published
+30 January 2026
+Version of record
+30 January 2026
+Issue date
+May 2026
+DOI
+https://doi.org/10.1007/s10639-025-13883-0
+Keywords
+Artificial intelligence Higher education Impostor syndrome
+Psychological ownership Student experience Sleeper effect
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support
+Legal notice Cancel contracts here
+Logged in as Teng0 ali - 104.28.155.78
+Not affiliated
+© 2026 Springer Nature
+Account
+Find a journal Publish with us Track your research Search Saved research Cart
+Article 09 January 2025
+Students’ Perceptions:
+Exploring the Interplay of
+Ethical and Pedagogical
+Impacts for Adopting AI in…
+Chapter © 2026
+Transforming Education:
+Utilizing AI to Create a
+Personalized Learning
+Experience for University…
+Chapter © 2026
+The Impact of Artificial
+Intelligence
+Implementation on Student
+Learning Patterns:…
+Delegable Task – Questions Main cognitive
+operation required
+1. What strategies has IKEA implemented to differentiate itself in the
+secondhand furniture market?
+Information retrieval
+and summarization
+2. Compare the business model of IKEA Preowned with that of platforms
+such as Wallapop and Vinted. What are the differences and similarities
+between them?
+Comparison based on
+structured features
+3. How has the growing concern for sustainability influenced the perception
+of the IKEA brand among younger consumers?
+Descriptive trend
+analysis
+4. Define the consumer profile of re-commerce platforms (listing features
+such as sociodemographic and psychographic characteristics).
+Profiling from
+demographic data
+5. Compare pricing strategies in the primary market (IKEA) versus the
+secondhand market (Preowned, Vinted, or Wallapop).
+Comparative numerical
+reasoning
+Supported Task – Questions
+1. In what ways can IKEA compete effectively in a market dominated by
+platforms such as Wallapop and Vinted without losing its brand identity?
+Strategic evaluation
+and judgment
+2. To what extent has the “Greta effect” influenced IKEA’s sales and
+positioning in the global market?
+Interpretive analysis of
+public sentiment
+3. What impact does the shift toward re-commerce have on traditional
+consumer culture, and how can IKEA leverage this trend without
+compromising its relationship with its most loyal customers?
+Cultural reasoning and
+trend adaptation
+4. How would you evaluate IKEA’s market testing strategy with its
+Preowned platform? Consider the types of data collected, the duration of
+the pilot, and the overall test design in your analysis.
+Critical evaluation of
+experimental design
+5. Based on the price data of the four products sold on re-commerce
+platforms, explain why purchasing Wallapop items is, in some cases, more
+expensive than purchasing new items directly from IKEA.
+Understanding
+consumer anomalies
+Home Education and Information Technologies Article
+Does AI Foster imposter feelings? The
+impact of task design on students’ use of AI
+Published: 30 January 2026
+Volume 31, pages 2123–2143 (2026) Cite this article
+Save article
+Aims and scope
+Submit manuscript
+Education and Information Technologies
+

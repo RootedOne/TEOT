@@ -1,0 +1,73 @@
+================================================================================
+  EXECUTIVE ANALYSIS & SYSTEMATIC NOTES
+  PAPER: The Illusion of "AI-First": Organizational Rationality and the 
+         Performative Translation of AI Hype
+  AUTHOR: Francesco Branda (University Campus Bio-Medico of Rome, Italy)
+  PUBLICATION: Philosophy & Technology (March 2026, Vol. 39, Art. 66)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. INTRODUCTION & CORE COMMETARY THESIS
+--------------------------------------------------------------------------------
+* Recent philosophical/management work (e.g., Bieber & Unruh, 2025, "artificial 
+  colleagues") analyzes AI systems as literal co-workers, assuming their adoption 
+  in organizations is driven by practical, functional integration and task efficiency.
+* Branda's Commentary: This functionalist view misses the mark. AI adoption is 
+  fundamentally performative and symbolic.
+* Core Hypothesis: "AI-first" strategies in modern enterprises are not objective 
+  choices based on technology's actual utility. Instead, they are performative 
+  acts of organizational rationality—symbolic actions taken to satisfy public, 
+  investor, and institutional expectations of innovation.
+
+--------------------------------------------------------------------------------
+2. KEY CONCEPTUAL FRAMEWORKS
+--------------------------------------------------------------------------------
+The paper develops three critical concepts for understanding the AI hype cycle:
+
+A. PERFORMATIVE ORGANIZATIONAL RATIONALITY
+* Definition: The practice of organizations adopting technologies not because they 
+  solve an internal operational problem, but to signal to the market that the 
+  organization is "rational," modern, and aligned with cutting-edge trends.
+* Mechanism: The adoption acts as a badge of forward-thinking competency. By declaring 
+  an "AI-first" mandate, management secures legitimacy, maintains stock value, and 
+  conforms to peer pressure, regardless of whether the tools actually function or 
+  are used.
+
+B. THE PERFORMATIVE TRANSLATION OF AI HYPE
+* Definition: The process by which inflated marketing promises (hype) from model 
+  creators are translated into hard internal mandates by corporate leaders.
+* Impact: Hype is not just passive noise; it is an active, performative force. 
+  It creates an artificial necessity to adopt AI, forcing departments to deploy 
+  models to fit the narrative, even if human workflows are disrupted or deskilled.
+
+C. THE NARRATIVE-PRACTICE GAP
+* Definition: The discrepancy between a company's external marketing narrative 
+  ("we are powered by state-of-the-art AI-first systems") and its internal practical 
+  reality (basic API wrappers, underutilized features, or manual human labor 
+  shadowing the AI's mistakes).
+
+--------------------------------------------------------------------------------
+3. IMPLICATIONS FOR THE SLIDE STORYLINE (STORYLINE C: THE EROSION OF TRUTH)
+--------------------------------------------------------------------------------
+* Metaphor: "The Performative Shield."
+* Role in the Story: This paper represents the Genesis—the first domino. Before 
+  students/employees feel like imposters, and before LLMs start lying to them, 
+  the organization itself starts with a performative lie: that it must be "AI-first."
+* The Domino Effect:
+  1. Hype (Performative "AI-first" mandates) -> 
+  2. Forced Adoption (Cheatbots/academic shortcuts to meet output targets) -> 
+  3. Identity Crisis (AI Imposter syndrome due to lack of ownership) -> 
+  4. Grief/Escape (AI Resurrection as humans retreat into digital ghosts) -> 
+  5. Collapse (Total delusion as users trust models that lie to them).
+
+--------------------------------------------------------------------------------
+4. PRESENTATION OUTLINE TAKEAWAYS
+--------------------------------------------------------------------------------
+* Headline: "The Performative Shield: The Illusion of the AI-First Mandate."
+* Key Slide Quote: "Organizational engagement with AI cannot be understood solely 
+  in terms of functionality. It is a performative rationality, signaling 
+  compliance with technological expectations."
+* Slide Visual Concept: A corporate boardroom where the PowerPoint displays a 
+  grand, complex AI flowchart, but behind the projection screen, a human is 
+  secretly typing the answers manually.
+================================================================================

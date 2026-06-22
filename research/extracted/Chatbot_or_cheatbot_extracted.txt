@@ -1,0 +1,363 @@
+Advertisement
+Yi Xu , Junyi Guo, Dong Zhou & Mengxuan Li
+636 Accesses Explore all metrics 
+Abstract
+As generative AI becomes increasingly integrated into academic writing, ethical
+ambiguities emerge, especially concerning AI-giarism—where AI-generated content blurs
+traditional understandings of plagiarism. In addressing these complexities, the present
+study examines moral judgments across three distinct scenarios of AI usage: (1) Direct
+copying AI-generated content, (2) AI-supported collaborative writing, and (3) Minimal
+AI-tool use (e.g., proofreading, grammar checking, and information searches). Grounded
+in dual-process models of moral reasoning and technological mediation theories, this
+study investigates how cognitive awareness of plagiarism standards and negative emotions
+toward plagiarism influence moral judgments and underlying psychological mechanisms.
+An analysis of data from 415 participants reveals significant variations in ethical
+evaluations according to context: direct copying is subject to strict moral condemnation,
+while collaborative writing elicits moderate judgments, and minimal AI-tool use remains
+ethically ambiguous. Perceived moral intensity mediates both the influences of cognitive
+awareness and negative emotional attitudes towards plagiarism, emphasizing the need for
+moral judgment theories to explicitly incorporate context-dependent perceptions of ethical
+severity. Furthermore, participants’ experience of AI usage moderates the mediation
+pathways, highlighting the critical role of AI literacy in fostering sophisticated ethical
+judgments. These findings contribute to theoretical understandings of moral reasoning
+within AI-mediated academic writing contexts and suggest potential practical implications
+for educational institutions and publishers, recommending clear, context-sensitive ethical
+guidelines and targeted AI-literacy initiatives to effectively manage evolving human-AI
+collaborative practices.
+ This is a preview of subscription content, log in via an institution to check access.
+Similar content being viewed by others
+Explore related subjects
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+Digital Humanities Digital Ethics Meta-Ethics Moral Psychology Research Ethics
+Artificial Intelligence Statistical Methods in Psychological Science
+Data availability
+The data used in this study were collected through a questionnaire developed by
+integrating and adapting items from established measurement scales. The original
+questionnaire was administered in Chinese, and English translations of representative
+items are provided in the manuscript. Due to privacy considerations, the full dataset is not
+publicly available but can be obtained from the corresponding author upon reasonable
+request.
+Notes
+1.While consensus on defining “AI plagiarism” (“AI-giarism”) remains unsettled, this study
+specifically defines direct AI plagiarism as submitting fully or nearly fully AI-generated
+content without significant human modification and without clearly disclosing AI
+involvement, thus violating academic integrity standards.
+References
+Al-Zahrani, A. M., & Alasmari, T. M. (2024). Exploring the impact of artificial intelligence
+on higher education: The dynamics of ethical, social, and educational implications.
+Humanities and Social Sciences Communications,11(1), 912. https://doi.org/10.1057/s41599-
+024-03432-4
+ArticleGoogle Scholar
+Awad, E., Dsouza, S., Kim, R., Schulz, J., Henrich, J., Shariff, A., Bonnefon, J.-F., &
+Rahwan, I. (2018). The Moral Machine experiment. Nature,563(7729), 59–64.
+https://doi.org/10.1038/s41586-018-0637-6
+ArticleGoogle Scholar
+Bankins, S., & Formosa, P. (2023). The ethical implications of artificial intelligence (AI)
+for meaningful work. Journal of Business Ethics,185(4), 725–740.
+ArticleGoogle Scholar
+Bayaga, A. (2025). Leveraging AI-enhanced and emerging technologies for pedagogical
+innovations in higher education. Education and Information Technologies,30(1), 1045–
+1072.
+ArticleGoogle Scholar
+Bazerman, M. H., & Tenbrunsel, A. E. (2011). Blind spots why we fail to do what’s right and
+what to do about it. Princeton Univ. Press.
+BookGoogle Scholar
+Blut, M., Wang, C., Wünderlich, N. V., & Brock, C. (2021). Understanding
+anthropomorphism in service provision: A meta-analysis of physical robots, chatbots,
+and other AI. Journal of the Academy of Marketing Science,49, 632–658.
+ArticleGoogle Scholar
+Brown, N., Xie, B., Sarder, E., Fiesler, C., & Wiese, E. S. (2024). Teaching ethics in
+computing: A systematic literature review of ACM computer science education
+publications. ACM Transactions on Computing Education,24(1), 1–36.
+ArticleGoogle Scholar
+Camilleri, M. A. (2023). Artificial intelligence governance: Ethical considerations and
+implications for social responsibility. Expert Systems. https://doi.org/10.1111/exsy.13406
+ArticleGoogle Scholar
+Chan, C. (2024). Students’ perceptions of “AI-giarism”: Investigating changes in
+understandings of academic misconduct. Education and Information Technologies,30,
+8087–8108. https://doi.org/10.1007/s10639-024-13151-7
+ArticleGoogle Scholar
+Chan, L., Doyle, K., McElfresh, D., Conitzer, V., Dickerson, J. P., Schaich Borg, J., &
+Sinnott-Armstrong, W. (2020). Artificial Artificial Intelligence. Proceedings of the
+AAAI/ACM Conference on AI, Ethics, and Society.https://doi.org/10.1145/3375627.3375870
+ArticleGoogle Scholar
+Cordasco, C. L., & Véliz, C. (2025). Self-esteem and technological unemployment: Should
+we halt AI to protect meaningful work? Journal of Business Ethics, (1), 13.
+https://doi.org/10.1007/s10551-025-06007-8
+Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2024). Chatting and cheating: Ensuring
+academic integrity in the era of ChatGPT. Innovations in Education and Teaching
+International,61(2), 228–239. https://doi.org/10.1080/14703297.2023.2190148
+ArticleGoogle Scholar
+Eke, D. O. (2023). ChatGPT and the rise of generative AI: Threat to academic integrity?.
+Journal of Responsible Technology, 13, 100060. https://doi.org/10.1016/j.jrt.2023.100060
+Frey, B. F. (2000). The impact of moral intensity on decision making in a business context.
+Journal of Business Ethics,26(3), 181–195. https://doi.org/10.1023/a:1006139124110
+ArticleGoogle Scholar
+Fritz, M. S., & MacKinnon, D. P. (2007). Required sample size to detect the mediated
+effect. Psychological Science, 18(3), 233–239.
+ArticleGoogle Scholar
+Fu, K. W., & Tremayne, K. S. (2022). Self-efficacy and self-control mediate the
+relationship between negative emotions and attitudes toward plagiarism. Journal of
+Academic Ethics,20, 457–477.
+ArticleGoogle Scholar
+Giroux, M., Kim, J., Lee, J. C., & Park, J. (2022). Artificial intelligence and declined guilt:
+Retailing morality comparison between human and AI. Journal of Business Ethics,178(4),
+1027–1041.
+ArticleGoogle Scholar
+Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations:
+Implications for academic integrity and assessment in higher education. Assessment &
+Evaluation in Higher Education, 50(4), 592–606.
+ArticleMathSciNetGoogle Scholar
+Greene, J. D., Morelli, S. A., Lowenberg, K., Nystrom, L. E., & Cohen, J. D. (2008). Cognitive
+load selectively interferes with utilitarian moral judgment. Cognition,107(3), 1144–1154.
+https://doi.org/10.1016/j.cognition.2007.11.004
+ArticleGoogle Scholar
+Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to
+moral judgment. Psychological Review,108(4), 814–834. https://doi.org/10.1037/0033-
+295X.108.4.814
+ArticleGoogle Scholar
+Hair, J. F., Jr., Black, W. C., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis
+(7th ed., pp. 1–758). Pearson Education Limited.
+Hayes, A. F. (2012). PROCESS: A versatile computational tool for observed variable mediation,
+moderation, and conditional process modeling.
+Helgesson, G., & Eriksson, S. (2014). Plagiarism in research. Medicine, Health Care and
+Philosophy, 18(1), 91–101. https://doi.org/10.1007/s11019-014-9583-8
+Jarrah, A. M., Wardat, Y., & Fidalgo, P. (2023). Using ChatGPT in academic writing is (not)
+a form of plagiarism: What does the literature say? Online Journal of Communication and
+Media Technologies,13(4), e202346. https://doi.org/10.30935/ojcmt/13572
+ArticleGoogle Scholar
+Jones, T. M. (1991). Ethical decision making by individuals in organizations: An issue-
+contingent model. Academy of Management Review,16(2), 366–395.
+https://doi.org/10.5465/amr.1991.4278958
+ArticleGoogle Scholar
+Kellogg, K. C., Valentine, M. A., & Christin, A. (2020). Algorithms at work: The new
+contested terrain of control. Academy of Management Annals,14(1), 366–410.
+ArticleGoogle Scholar
+Khalaf, M. A. (2024). Does attitude towards plagiarism predict AI-giarism using
+ChatGPT? AI and Ethics, 5, 677–688. https://doi.org/10.1007/s43681-024-00426-5
+King, M. R., & ChatGPT. (2023). A conversation on artificial intelligence, chatbots, and
+plagiarism in higher education. Cellular and Molecular Bioengineering, 16(1), 1–2.
+https://doi.org/10.1007/s12195-022-00754-8
+Kirk, C. P., & Givi, J. (2025). The AI-authorship effect: Understanding authenticity, moral
+disgust, and consumer responses to AI-generated marketing communications. Journal of
+Business Research,186, 114984.
+ArticleGoogle Scholar
+Kohlberg, L., & Hersh, R. H. (1977). Moral development: A review of the theory. Theory into
+Practice,16(2), 53–59.
+ArticleGoogle Scholar
+Kovari, A. (2024). Ethical use of ChatGPT in education—Best practices to combat AI-
+induced plagiarism. Frontiers in Education,9, 1465703.
+ArticleGoogle Scholar
+Kumar, R., Eaton, S.E., Mindzak, M., Morrison, R. (2023). Academic integrity and
+artificial intelligence: An overview. In S. E. Eaton (Eds.), Handbook of Academic Integrity.
+Springer, Singapore. https://doi.org/10.1007/978-981-287-079-7_153-1
+Kusyk, S., & Schwartz, M. S. (2024). Moral intensity: It is what is, but what is it? A critical
+review of the literature. Journal of Business Ethics. https://doi.org/10.1007/s10551-024-
+05869-8
+ArticleGoogle Scholar
+Lau, G. K. K., Yuen, A. H. K., & Park, J. (2013). Toward an analytical model of ethical
+decision making in plagiarism. Ethics & Behavior,23(5), 360–377.
+https://doi.org/10.1080/10508422.2013.787360
+ArticleGoogle Scholar
+Longoni, C., Tully, S., & Shariff, A. (2023). The AI-human unethicality gap: Plagiarizing AI-
+generated content is seen as more permissible. PsyArXiv.
+https://doi.org/10.31234/osf.io/na3wb
+Martin, K. (2019). Ethical implications and accountability of algorithms. Journal of
+Business Ethics,160(4), 835–850.
+ArticleGoogle Scholar
+Mavrinac, M., Brumini, G., Bili ć -Zulle, L., & Petrove č ki, M. (2010). Construction and
+validation of attitudes toward plagiarism questionnaire. Croatian medical journal, 51(3),
+195-201.
+Maxwell, A., Curtis, G. J., & Vardanega, L. (2008). Does culture influence understanding
+and perceived seriousness of plagiarism? The International Journal for Educational Integrity,
+4(2), 25–40.
+ArticleGoogle Scholar
+Moore, C., & Gino, F. (2015). Approach, ability, aftermath: A psychological process
+framework of unethical behavior at work. Academy of Management Annals,9(1), 235–289.
+https://doi.org/10.5465/19416520.2015.1011522
+ArticleGoogle Scholar
+Moser, C., Den Hond, F., & Lindebaum, D. (2022). Morality in the age of artificially
+intelligent algorithms. Academy of Management Learning & Education,21(1), 139–155.
+ArticleGoogle Scholar
+Noble, S. M., & Dubljevi ć , V. (2022). Ethics of AI in organizations. In Human-centered
+artificial intelligence (pp. 221–239). Academic Press.
+Pan, Z., Moore, O. A., Papadimitriou, A., & Zhu, J. (2025). AI literacy and trust: A multi-
+method study of human-GAI team collaboration. Computers in Human Behavior: Artificial
+Humans. https://doi.org/10.1016/j.chbah.2025.100162
+ArticleGoogle Scholar
+Perkins, M. (2023). Academic integrity considerations of AI large language models in the
+post-pandemic era: ChatGPT and beyond. Journal of University Teaching and Learning
+Practice, 20(2). https://doi.org/10.53761/1.20.02.07
+Perkins, M., Roe, J., Postma, D., McGaughran, J., & Hickerson, D. (2024). Detection of
+GPT-4 generated text in higher education: Combining academic judgement and software
+to identify generative AI tool misuse. Journal of Academic Ethics,22(1), 89–113.
+ArticleGoogle Scholar
+Russell, P. S., & Giner-Sorolla, R. (2013). Bodily moral disgust: What it is, how it is
+different from anger, and why it is an unreasoned emotion. Psychological Bulletin,139(2),
+328–351.
+ArticleGoogle Scholar
+Salatino, A., Prével, A., Caspar, E., & Bue, S. L. (2025). Influence of AI behavior on human
+moral decisions, agency, and responsibility. Scientific Reports,15(1), 12329.
+ArticleGoogle Scholar
+Shank, D. B., & DeSanti, A. (2018). Attributions of morality and mind to artificial
+intelligence after real-world moral violations. Computers in Human Behavior,86, 401–411.
+ArticleGoogle Scholar
+Stanford University. (2025). The 2025 AI Index Report | Stanford HAI. Stanford University.
+Retrieved March 8, 2026. https://hai.stanford.edu/ai-index/2025-ai-index-report
+Steponenaite, A., & Barakat, B. (2023). Plagiarism in an AI empowered world. In M.
+Antona & C. Stephanidis (Eds.), Universal Access in Human-Computer Interaction. HCII 2023
+(Lecture Notes in Computer Science, Vol. 14021). Springer. https://doi.org/10.1007/978-3-
+031-35897-5_31
+Sullivan, Y. W., & Fosso Wamba, S. (2022). Moral judgments in the age of artificial
+intelligence. Journal of Business Ethics, 178(4), 917–943.
+ArticleGoogle Scholar
+Telkamp, J. B., & Anderson, M. H. (2022). The implications of diverse human moral
+foundations for assessing the ethicality of artificial intelligence. Journal of Business Ethics.
+https://doi.org/10.1007/s10551-022-05057-6
+ArticleGoogle Scholar
+Tóth, Z., Caruana, R., Gruber, T., & Loebbecke, C. (2022). The dawn of the AI robots:
+Towards a new framework of AI robot accountability. Journal of Business Ethics,178(4),
+895–916.
+ArticleGoogle Scholar
+Turnitin. (2024). Turnitin helps educators and publishers advance critical thinking with new
+AI paraphrasing detection feature. Turnitin.com. Retrieved March 8, 2026.
+https://www.turnitin.com/press/turnitin-new-ai-paraphrasing-detection-feature
+UNESCO.(2023). Guidance for generative AI in education and research. United Nations
+Educational, Scientific and Cultural Organization. https://doi.org/10.54675/EWZM9535
+Uysal, E., Alavi, S., & Bezençon, V. (2023). Anthropomorphism in artificial intelligence: A
+review of empirical work across domains and insights for future research. Artificial
+Intelligence in Marketing, 273–308.
+Valentine, S., & Godkin, L. (2019). Moral intensity, ethical decision making, and
+whistleblowing intention. Journal of Business Research,98(1), 277–288.
+https://doi.org/10.1016/j.jbusres.2019.01.009
+ArticleGoogle Scholar
+Valentine, S., & Hollingworth, D. (2012). Moral intensity, issue importance, and ethical
+reasoning in operations situations. Journal of Business Ethics, 108(4), 509–523.
+Verbeek, P.-P. (2016). Toward a theory of technological mediation: A program for
+postphenomenological research. In Technoscience and Postphenomenology: The Manhattan
+Papers, 189. Lexington Books.
+Walter, Y. (2024). The future of artificial intelligence will be next to normal—a perspective
+on future directions and the psychology of AI safety concerns. Nature Anthropology, 2(1),
+10001.
+ArticleGoogle Scholar
+Wilson, J., & Rosson, M. B. (2022). Artificial intelligence literacy in higher and adult
+education: A scoping literature review. Computers and Education: Artificial Intelligence,3,
+100088. https://doi.org/10.1016/j.caeai.2022.100088
+ArticleGoogle Scholar
+Download references
+Funding
+No funds, grants, or other support was received.
+Author information
+Authors and Affiliations
+USC-SJTU Institute of Cultural and Creative Industry, Shanghai Jiao Tong University,
+Tanjiatang Road No.155, Shanghai, 200241, China
+Yi Xu, Dong Zhou & Mengxuan Li
+Hugh Downs School of Human Communication, Arizona State University, Arizona,
+85281, USA
+Junyi Guo
+Contributions
+Yi Xu was responsible for the topic selection, research design, and led the manuscript
+writing.
+Junyi Guo conducted data organization and analysis, created all figures and tables, and
+contributed to the manuscript writing.
+Dong Zhou participated in manuscript structuring, reviewing, and partial writing.
+Mengxuan Li organized the experiment and was in charge of questionnaire distribution
+and data collection.
+Corresponding author
+Correspondence to Yi Xu.
+Ethics declarations
+Ethical approval
+This study was approved by the Institutional Review Board (IRB) of [Institution name
+anonymized for review].
+Consent to participate
+Informed consent was obtained electronically from all individual participants included in
+the study.
+Consent to publish
+The study does not include any identifiable participant data. All participants were informed
+that their responses would be used for academic research and publication purposes and
+provided their consent accordingly.
+Competing interests
+The authors have no relevant financial or non-financial interests to disclose.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this
+article under a publishing agreement with the author(s) or other rightsholder(s); author
+self-archiving of the accepted manuscript version of this article is solely governed by the
+terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Xu, Y., Guo, J., Zhou, D. et al. Chatbot or cheatbot? Moral judgments of AI usage in
+academic writing. Educ Inf Technol (2026). https://doi.org/10.1007/s10639-026-13947-
+9
+Download citation
+Received
+21 September 2025
+Accepted
+24 February 2026
+Published
+20 March 2026
+Version of record
+20 March 2026
+DOI
+https://doi.org/10.1007/s10639-026-13947-9
+Keywords
+AI ethics Academic integrity Moral judgment AI-giarism
+Human-AI collaboration
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support
+Legal notice Cancel contracts here
+Logged in as Teng0 ali - 91.107.247.15
+Not affiliated
+© 2026 Springer Nature
+Account
+Find a journal Publish with us Track your research Search Saved research Cart
+Article 04 December 2025
+How AI can make us more
+moral: capturing and
+applying common sense
+morality
+Article Open access
+18 July 2024
+Perceptions of artificial
+intelligence system's
+aptitude to judge morality
+and competence amidst t…
+Article 18 October 2025
+Comparative Examination
+of Master’s Students’ and
+Faculty Members’
+Maintenance of Academic…
+Home Education and Information Technologies Article
+Chatbot or cheatbot? Moral judgments of AI
+usage in academic writing
+Published: 20 March 2026
+(2026) Cite this article
+Save article
+Aims and scope
+Submit manuscript
+Education and Information Technologies
+

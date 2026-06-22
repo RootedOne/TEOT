@@ -1,0 +1,75 @@
+================================================================================
+  EXECUTIVE ANALYSIS & SYSTEMATIC NOTES
+  PAPER: Chatbot or cheatbot? Moral judgments of AI usage in academic writing
+  AUTHORS: Yi Xu, Junyi Guo, Dong Zhou & Mengxuan Li
+  PUBLICATION: Education and Information Technologies (March 2026)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. ABSTRACT & CORE PROBLEM
+--------------------------------------------------------------------------------
+* Context: Generative AI tools (LLMs) are widely integrated into academic and 
+  professional writing, causing ethical friction.
+* The Problem: The emergence of "AI-giarism"—a new form of academic/intellectual 
+  misconduct where AI-generated content blurs the lines of traditional plagiarism.
+* Objective: The study examines how moral judgments differ based on human effort 
+  and context, mapping the cognitive and emotional pathways that shape how users 
+  rationalize cheating.
+
+--------------------------------------------------------------------------------
+2. METHODOLOGY & THE THREE SCENARIOS
+--------------------------------------------------------------------------------
+* Sample: N = 415 participants evaluated under a questionnaire design based on 
+  dual-process moral reasoning models.
+* Scenarios Evaluated:
+  1. Direct Copying (The Offloading Trap): 
+     Submitting fully or nearly fully AI-generated content as one's own without 
+     significant human modification and without disclosure.
+     - Moral Judgment: Strictest moral condemnation. Viewed as outright theft/plagiarism.
+  2. Collaborative Writing (The Co-Creation Loop): 
+     Using AI as an active partner to brainstorm, structure outlines, draft 
+     sections, or iterate content.
+     - Moral Judgment: Moderate ethical evaluation. Viewed as a gray area with 
+       varying levels of acceptable collaboration.
+  3. Minimal Tool Use (The Editing Shield): 
+     Using AI exclusively for grammar checks, proofreading, clarity, translation, 
+     or basic search assistance.
+     - Moral Judgment: Ethically ambiguous, but generally tolerated or viewed 
+       as a standard utility.
+
+--------------------------------------------------------------------------------
+3. THE PSYCHOLOGICAL PATHWAYS
+--------------------------------------------------------------------------------
+The authors identify key psychological variables that determine moral judgments:
+
+* Perceived Moral Intensity (Core Mediator): 
+  Perceived moral intensity determines how "wrong" a task feels. How deeply a 
+  person understands plagiarism standards (cognitive awareness) and their 
+  negative emotional reaction to cheating (moral disgust) drive this intensity.
+* The AI Experience Moderator (AI Literacy):
+  - Highly Experienced AI Users: Exhibit sophisticated, nuanced ethical 
+    judgments, distinguishing clearly between editing, collaboration, and plagiarism.
+  - Novices: Show simple, black-and-white evaluations (either classifying all AI 
+    use as cheating, or blindly offloading work without understanding the moral cost).
+
+--------------------------------------------------------------------------------
+4. IMPLICATIONS FOR THE SLIDE STORYLINE (STORYLINE C: THE EROSION OF TRUTH)
+--------------------------------------------------------------------------------
+* Metaphor: "The Silent Deal."
+* Role in the Story: Slide 2 (The Shortcut / Cheatbot Phase).
+* The Connection: 
+  - Slide 1 (boardroom hype) sets up performative "AI-first" demands.
+  - Slide 2 (this paper) shows how humans respond to this pressure: we strike a 
+    silent deal with the machine. We use it to cut corners, rationalizing "AI-giarism" 
+    along a spectrum from minimal checks to direct copying.
+  - This shortcut leads to Slide 3 (imposter feelings), because offloading the 
+    effort erodes our sense of authorship and psychological ownership.
+
+--------------------------------------------------------------------------------
+5. PRESENTATION OUTLINE TAKEAWAYS
+--------------------------------------------------------------------------------
+* Headline: "Chatbot or Cheatbot? The Spectrum of AI-Giarism."
+* Slide Visual Concept: A scale where on one side sits a human hand holding a pen 
+  labeled "Original Effort," and on the other sits a robot arm typing labeled 
+  "Zero Effort." The scale is tipped, showing the erosion of moral boundaries.
+================================================================================

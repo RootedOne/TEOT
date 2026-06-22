@@ -1,0 +1,85 @@
+================================================================================
+  EXECUTIVE ANALYSIS & SYSTEMATIC NOTES
+  PAPER: "My AI is Lying to Me": User-reported LLM hallucinations in AI 
+         mobile apps reviews
+  AUTHORS: Rhodes Massenon, Ishaya Gambo, Javed Ali Khan, Christopher 
+           Agbonkhese & Ayed Alwadain
+  PUBLICATION: Scientific Reports (2025, 15:30397)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. STUDY BACKGROUND & OBJECTIVE
+--------------------------------------------------------------------------------
+* Context: Unlike controlled lab evaluations or synthetic benchmarks, this paper 
+  investigates how real-world users experience and describe LLM "hallucinations" 
+  in the wild.
+* Dataset: A large-scale empirical study analyzing 3,000,000 user reviews from 
+  90 diverse AI-powered mobile apps across 10 categories (e.g., General Chatbots, 
+  Educational AI, Generative Tools) from January 2022 to December 2024.
+* Method: A mixed-methods approach using a heuristic-based detection algorithm 
+  to flag candidate reviews, followed by manual qualitative annotation (Cohen's 
+  Kappa >= 0.75).
+
+--------------------------------------------------------------------------------
+2. KEY FINDINGS: PREVALENCE & TRUST IMPACT
+--------------------------------------------------------------------------------
+* Prevalence Rate: 
+  Approximately 1.75% of reviews initially flagged as relevant to AI errors were 
+  confirmed to describe user-perceived LLM hallucinations.
+* Trust Erosion (The Star Rating Crash):
+  - Overall average rating of analyzed apps: 3.9 stars.
+  - Average rating of reviews mentioning AI but not hallucinating: 3.5 stars.
+  - Average rating of reviews reporting hallucinations: 1.8 stars.
+  - Implication: A hallucination is perceived as a critical product defect rather 
+    than an algorithmic quirk, causing a severe drop in user rating.
+* Category Sensitivity: 
+  "Generative AI Tools" and "AI Educational Apps" had a significantly higher 
+  rate of confirmed hallucination reports (40.0% of analyzed subset) than General 
+  Chatbots (30.0%), showing that users are far more critical of factuality when 
+  using AI for education and content creation.
+
+--------------------------------------------------------------------------------
+3. THE USER-DERIVED TAXONOMY: 7 TYPES OF HALLUCINATIONS
+--------------------------------------------------------------------------------
+The paper outlines a hierarchy of how end-users perceive and describe AI lies:
+
+1. H1: Factual Incorrectness (38% of reports) — Verifiably false info.
+   - User Description: "The AI travel guide said Paris is the capital of England."
+2. H3: Nonsensical/Irrelevant Output (25% of reports) — Grammatically correct 
+   but semantically meaningless or off-topic responses.
+   - User Description: "I asked for a sci-fi plot and it gave me a list of farm animals."
+3. H2: Fabricated Information/Invention (15% of reports) — Active invention of 
+   fictional sources, details, or features.
+   - User Description: "My AI recipe app invented a spice called 'solar-salt'."
+4. H4: Logical Inconsistency/Self-Contradiction — Inconsistent facts within a 
+   conversation.
+   - User Description: "First it said Saturday, then it insisted Tuesday."
+5. H5: Persona Deviation/Role Inconsistency — Jarring tone or language shifts.
+   - User Description: "Professional assistant suddenly used casual slang and emojis."
+6. H6: Visual Fabrication (Generative AI only) — Physically impossible geometry.
+   - User Description: "The avatar creator gave my character three hands."
+7. H7: Repetitive Output (Non-functional) — Model loops or freezes.
+   - User Description: "Got confused and kept typing 'hello' endlessly."
+
+--------------------------------------------------------------------------------
+4. LINGUISTIC SIGNATURES & SENTIMENT
+--------------------------------------------------------------------------------
+* VADER Sentiment Score:
+  - General non-hallucinating AI reviews: +0.15 (positive).
+  - Overall reviews containing a hallucination: -0.40 (negative).
+  - Review snippets describing the hallucination: -0.65 (highly negative).
+* Distinctive N-grams: 
+  Phrases like "wrong information," "made this up," "no sense at all," and 
+  "completely made up" serve as statistical indicators of user frustration.
+
+--------------------------------------------------------------------------------
+5. PRESENTATION OUTLINE TAKEAWAYS (STORYLINE C METAPHOR)
+--------------------------------------------------------------------------------
+* Metaphor: "The Broken Mirror."
+* Main Lesson: The final collapse of truth is marked by the user's sudden realization 
+  that "My AI is Lying to Me." The illusion of a helpful, all-knowing companion 
+  shatters, dropping user trust from a 3.9-star expectation to a 1.8-star reality.
+* Slide Visual Concept: A cracked glass phone screen displaying an AI chat bubble 
+  that says "Trust me, I know everything" while the glass fractures run through it.
+* Headline: "My AI is Lying to Me: The 1.8-Star Reality of Synthesized Information."
+================================================================================
